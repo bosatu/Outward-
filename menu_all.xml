@@ -6,29 +6,29 @@
     <ooo_row><column_1>ChannelingMenu_ResultStat</column_1><column_2>Result</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ChannelingMenu_Title</column_1><column_2>Mana Channeling</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ChannelingMenu_WarningMessage</column_1><column_2>For each point, your Max Health is reduced by {1} and your Max Stamina is reduced by {2}.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterCreation_CreateButton</column_1><column_2>Create</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterCreation_Field_Face</column_1><column_2>Face Style</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterCreation_Field_Gender</column_1><column_2>Gender</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterCreation_Field_HairColor</column_1><column_2>Hair Color</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterCreation_Field_Haircut</column_1><column_2>Hair Style</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterCreation_CreateButton</column_1><column_2>作成</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterCreation_Field_Face</column_1><column_2>顔</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterCreation_Field_Gender</column_1><column_2>性別</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterCreation_Field_HairColor</column_1><column_2>髪の色</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterCreation_Field_Haircut</column_1><column_2>髪型</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CharacterCreation_Field_Legacy</column_1><column_2>Legacy</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterCreation_Field_Name</column_1><column_2>Name</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterCreation_Field_NameHelp</column_1><column_2>Character Name</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterCreation_Field_Race</column_1><column_2>Race</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterCreation_RandomButton</column_1><column_2>Random</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterCreation_Player_1Player</column_1><column_2>1 Player</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterCreation_Player_2Player</column_1><column_2>2 Players</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterCreation_Field_Name</column_1><column_2>名前</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterCreation_Field_NameHelp</column_1><column_2>キャラクターの名前</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterCreation_Field_Race</column_1><column_2>種族</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterCreation_RandomButton</column_1><column_2>ランダム</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterCreation_Player_1Player</column_1><column_2>シングルプレイ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterCreation_Player_2Player</column_1><column_2>協力プレイ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CharacterCreation_Player_NewGame</column_1><column_2>新規スタート</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterCreation_Player_Tutorial</column_1><column_2>Start Tutorial</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_Defense_Armor</column_1><column_2>Physical Resistance</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_Defense_ColdResistance</column_1><column_2>Cold Weather Def.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_Defense_HeatResistance</column_1><column_2>Hot Weather Def.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_Defense_ImpactResistance</column_1><column_2>Impact Resistance</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_Defense_Protection</column_1><column_2>Physical Protection</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_Drink</column_1><column_2>Drink</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_Food</column_1><column_2>Food</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_Health</column_1><column_2>Health</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_Mana</column_1><column_2>Mana</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterCreation_Player_Tutorial</column_1><column_2>チュートリアル開始</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_Defense_Armor</column_1><column_2>抵抗力</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_Defense_ColdResistance</column_1><column_2>耐寒抵抗.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_Defense_HeatResistance</column_1><column_2>高温抵抗.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_Defense_ImpactResistance</column_1><column_2>衝撃抵抗</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_Defense_Protection</column_1><column_2>身体的抵抗</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_Drink</column_1><column_2>渇き</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_Food</column_1><column_2>空腹</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_Health</column_1><column_2>体力</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_Mana</column_1><column_2>マナ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CharacterStat_NeedLevel_FatigueHigh</column_1><column_2>Awake</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CharacterStat_NeedLevel_FatigueLow</column_1><column_2>Tired</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CharacterStat_NeedLevel_FatigueVeryLow</column_1><column_2>Very Tired</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
