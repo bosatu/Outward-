@@ -2,60 +2,60 @@
 <ooo_calc_export scriptVersion="2.2.0_qdxml" scriptUpdate="2011-03-02" scriptURL="http://www.digitalimprint.com/misc/oooexport/" scriptAuthor="vjl">
   <ooo_sheet num="1">
     <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ChannelingMenu_CurrentStat</column_1><column_2>Current</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ChannelingMenu_ResultStat</column_1><column_2>Result</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ChannelingMenu_Title</column_1><column_2>Mana Channeling</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ChannelingMenu_CurrentStat</column_1><column_2>現在</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ChannelingMenu_ResultStat</column_1><column_2>結果</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ChannelingMenu_Title</column_1><column_2>マナチャネリング</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ChannelingMenu_WarningMessage</column_1><column_2>For each point, your Max Health is reduced by {1} and your Max Stamina is reduced by {2}.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterCreation_CreateButton</column_1><column_2>Create</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterCreation_Field_Face</column_1><column_2>Face Style</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterCreation_Field_Gender</column_1><column_2>Gender</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterCreation_Field_HairColor</column_1><column_2>Hair Color</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterCreation_Field_Haircut</column_1><column_2>Hair Style</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterCreation_CreateButton</column_1><column_2>作成</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterCreation_Field_Face</column_1><column_2>顔</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterCreation_Field_Gender</column_1><column_2>性別</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterCreation_Field_HairColor</column_1><column_2>髪の色</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterCreation_Field_Haircut</column_1><column_2>髪型</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CharacterCreation_Field_Legacy</column_1><column_2>Legacy</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterCreation_Field_Name</column_1><column_2>Name</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterCreation_Field_NameHelp</column_1><column_2>Character Name</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterCreation_Field_Race</column_1><column_2>Race</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterCreation_RandomButton</column_1><column_2>Random</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterCreation_Player_1Player</column_1><column_2>1 Player</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterCreation_Player_2Player</column_1><column_2>2 Players</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterCreation_Field_Name</column_1><column_2>名前</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterCreation_Field_NameHelp</column_1><column_2>キャラクターの名前</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterCreation_Field_Race</column_1><column_2>種族</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterCreation_RandomButton</column_1><column_2>ランダム</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterCreation_Player_1Player</column_1><column_2>シングルプレイ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterCreation_Player_2Player</column_1><column_2>協力プレイ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CharacterCreation_Player_NewGame</column_1><column_2>新規スタート</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterCreation_Player_Tutorial</column_1><column_2>Start Tutorial</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_Defense_Armor</column_1><column_2>Physical Resistance</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_Defense_ColdResistance</column_1><column_2>Cold Weather Def.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_Defense_HeatResistance</column_1><column_2>Hot Weather Def.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_Defense_ImpactResistance</column_1><column_2>Impact Resistance</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_Defense_Protection</column_1><column_2>Physical Protection</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_Drink</column_1><column_2>Drink</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_Food</column_1><column_2>Food</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_Health</column_1><column_2>Health</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_Mana</column_1><column_2>Mana</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_NeedLevel_FatigueHigh</column_1><column_2>Awake</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_NeedLevel_FatigueLow</column_1><column_2>Tired</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_NeedLevel_FatigueVeryLow</column_1><column_2>Very Tired</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_NeedLevel_HungerHigh</column_1><column_2>Full</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_NeedLevel_HungerLow</column_1><column_2>Hungry</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_NeedLevel_HungerVeryLow</column_1><column_2>Very Hungry</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_NeedLevel_Medium</column_1><column_2>Neutral</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_NeedLevel_TemperatureHigh</column_1><column_2>Hot</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_NeedLevel_TemperatureLow</column_1><column_2>Cold</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_NeedLevel_TemperatureVeryHigh</column_1><column_2>Very Hot</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_NeedLevel_TemperatureVeryLow</column_1><column_2>Very Cold</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_NeedLevel_ThirstHigh</column_1><column_2>Refreshed</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_NeedLevel_ThirstLow</column_1><column_2>Thirsty</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_NeedLevel_ThirstVeryLow</column_1><column_2>Very Thirsty</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_Sleep</column_1><column_2>Sleep</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_Stamina</column_1><column_2>Stamina</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_Temperature</column_1><column_2>Temperature</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStatus_Tab_BasicStats</column_1><column_2>Basic Stats</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStatus_Tab_Defense</column_1><column_2>Defense</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStatus_Tab_HandHeld</column_1><column_2>Hand Held</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStatus_Tab_StatusEffect</column_1><column_2>Status Effects</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharSelection_SelectCharacter</column_1><column_2>Select Character</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharSelection_SelectSave</column_1><column_2>Select Save</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterCreation_Player_Tutorial</column_1><column_2>チュートリアル開始</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_Defense_Armor</column_1><column_2>抵抗力</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_Defense_ColdResistance</column_1><column_2>耐寒抵抗.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_Defense_HeatResistance</column_1><column_2>高温抵抗.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_Defense_ImpactResistance</column_1><column_2>衝撃抵抗</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_Defense_Protection</column_1><column_2>身体的抵抗</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_Drink</column_1><column_2>渇き</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_Food</column_1><column_2>空腹</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_Health</column_1><column_2>体力</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_Mana</column_1><column_2>マナ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_NeedLevel_FatigueHigh</column_1><column_2>起床</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_NeedLevel_FatigueLow</column_1><column_2>疲れている</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_NeedLevel_FatigueVeryLow</column_1><column_2>とても疲れている</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_NeedLevel_HungerHigh</column_1><column_2>満腹</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_NeedLevel_HungerLow</column_1><column_2>空腹</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_NeedLevel_HungerVeryLow</column_1><column_2>とても空腹です</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_NeedLevel_Medium</column_1><column_2>通常</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_NeedLevel_TemperatureHigh</column_1><column_2>暑い</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_NeedLevel_TemperatureLow</column_1><column_2>寒い</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_NeedLevel_TemperatureVeryHigh</column_1><column_2>とても暑い</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_NeedLevel_TemperatureVeryLow</column_1><column_2>とても寒い</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_NeedLevel_ThirstHigh</column_1><column_2>リフレッシュ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_NeedLevel_ThirstLow</column_1><column_2>喉が渇いた</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_NeedLevel_ThirstVeryLow</column_1><column_2>とても喉が渇いた</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_Sleep</column_1><column_2>睡眠</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_Stamina</column_1><column_2>スタミナ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_Temperature</column_1><column_2>温度</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStatus_Tab_BasicStats</column_1><column_2>基本統計</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStatus_Tab_Defense</column_1><column_2>防御</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStatus_Tab_HandHeld</column_1><column_2>携帯</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStatus_Tab_StatusEffect</column_1><column_2>ステータス効果</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharSelection_SelectCharacter</column_1><column_2>キャラクター選択</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharSelection_SelectSave</column_1><column_2>セーブを選択</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CraftingMenu_AnyIngredient</column_1><column_2>Any {1}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CraftingMenu_AnyIngredientGeneric</column_1><column_2>Any Ingredient</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CraftingMenu_FreeRecipe</column_1><column_2>Manual Recipe</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CraftingMenu_FreeRecipe_Alchemy</column_1><column_2>Manual Recipe is used to make potions whose recipe you don’t know yet.
+    <ooo_row><column_1>CraftingMenu_FreeRecipe</column_1><column_2>マニュアルレシピ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CraftingMenu_FreeRecipe_Alchemy</column_1><column_2>マニュアルレシピは、レシピを知らないポーションを作るために使用されます。
 
 
 
@@ -80,191 +80,191 @@ Alchemy is used to create consumable items with very potent properties, such as 
 
 
 Otherwise, survival crafting is used to make essentials items such as Makeshift Torches, if one ever loses his lantern in a cave.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>DamageType_Decay</column_1><column_2>Decay</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>DamageType_Electric</column_1><column_2>Lightning</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>DamageType_Ethereal</column_1><column_2>Ethereal</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>DamageType_Fire</column_1><column_2>Fire</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>DamageType_Frost</column_1><column_2>Frost</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>DamageType_Physical</column_1><column_2>Physical</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>DamageType_Decay</column_1><column_2>減衰</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>DamageType_Electric</column_1><column_2>ライトニング</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>DamageType_Ethereal</column_1><column_2>エターナル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>DamageType_Fire</column_1><column_2>ファイアー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>DamageType_Frost</column_1><column_2>フロスト</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>DamageType_Physical</column_1><column_2>物理</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>DeployableTrapMenu_EmptyInventory</column_1><column_2>No compatible component in inventory</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>DeployableTrapMenu_Instruction</column_1><column_2>Select a compatible item to arm the trap</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>DeployableTrapMenu_NotArmed</column_1><column_2>Not Armed</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>DeployableTrapMenu_NotArmed</column_1><column_2>非武装</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>DeployableTrapMenu_ResultTrap</column_1><column_2>Result Trap</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Faction_BlueChamber</column_1><column_2>Blue Chamber</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Faction_HeroicKingdomLevant</column_1><column_2>Heroic Kingdom of Levant</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Faction_HolyMissionEllat</column_1><column_2>Holy Mission of Elatt</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_AnyWeapon</column_1><column_2>Any Weapon</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Faction_HolyMissionEllat</column_1><column_2>Elattの聖なるミッション</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_AnyWeapon</column_1><column_2>任意の武器</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>General_None</column_1><column_2>None</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Default</column_1><column_2>Default</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Apply</column_1><column_2>Apply</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Assign</column_1><column_2>Assign</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Back</column_1><column_2>Back</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Cancel</column_1><column_2>Cancel</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Close</column_1><column_2>Close</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Attack</column_1><column_2>Attack</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Defense</column_1><column_2>Defense</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Equipment</column_1><column_2>Equipment</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Credits</column_1><column_2>Credits</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Confirm</column_1><column_2>Confirm</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Change</column_1><column_2>Change</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Default</column_1><column_2>標準</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Apply</column_1><column_2>適用</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Assign</column_1><column_2>割り当てn</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Back</column_1><column_2>戻る</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Cancel</column_1><column_2>キャンセル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Close</column_1><column_2>閉じる</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Attack</column_1><column_2>攻撃</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Defense</column_1><column_2>防御</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Equipment</column_1><column_2>装備</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Credits</column_1><column_2>クレジット</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Confirm</column_1><column_2>確認</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Change</column_1><column_2>交換</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>General_ConfirmTransaction</column_1><column_2>Confirm Transaction</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Container</column_1><column_2>Container</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Continue</column_1><column_2>Continue</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Craft</column_1><column_2>Craft</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Delete</column_1><column_2>Delete</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Empty</column_1><column_2>Empty</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_EmptyInventory</column_1><column_2>Empty Inventory</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Enter</column_1><column_2>Enter</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_FindGame</column_1><column_2>Find Game</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_GoOffline</column_1><column_2>Stop Online Play</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Help</column_1><column_2>Help</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Hold</column_1><column_2>Hold</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Hour</column_1><column_2>Hour</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Hours</column_1><column_2>Hour(s)</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Item</column_1><column_2>Item</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Max</column_1><column_2>Max</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Menu</column_1><column_2>Menu</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Merchant</column_1><column_2>Merchant</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_NewGame</column_1><column_2>New Game</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Container</column_1><column_2>容器</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Continue</column_1><column_2>コンティニュー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Craft</column_1><column_2>作成</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Delete</column_1><column_2>削除</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Empty</column_1><column_2>空</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_EmptyInventory</column_1><column_2>空のイベントリー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Enter</column_1><column_2>決定</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_FindGame</column_1><column_2>ゲームを検索</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_GoOffline</column_1><column_2>オンラインプレイを中断</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Help</column_1><column_2>ヘルプ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Hold</column_1><column_2>ホールド</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Hour</column_1><column_2>時間</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Hours</column_1><column_2>時間(s)</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Item</column_1><column_2>アイテム</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Max</column_1><column_2>最大</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Menu</column_1><column_2>メニュー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Merchant</column_1><column_2>承認</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_NewGame</column_1><column_2>ニューゲーム</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>General_No</column_1><column_2>No</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>General_Occupied</column_1><column_2>Occupied</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>General_Ok</column_1><column_2>OK</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_OpenGame</column_1><column_2>Open Game to Friends</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Quit</column_1><column_2>Quit Game</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Restart</column_1><column_2>Restart</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Resume</column_1><column_2>Resume</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Save</column_1><column_2>Save</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Second</column_1><column_2>Second</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Seconds</column_1><column_2>Second(s)</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Select</column_1><column_2>Select</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Settings</column_1><column_2>Settings</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Skill</column_1><column_2>Skill</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_StartResting</column_1><column_2>Start Resting</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_OpenGame</column_1><column_2>フレンドのゲーム</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Quit</column_1><column_2>終了</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Restart</column_1><column_2>再スタート</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Resume</column_1><column_2>継続</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Save</column_1><column_2>保存</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Second</column_1><column_2>秒</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Seconds</column_1><column_2>秒(s)</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Select</column_1><column_2>選択</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Settings</column_1><column_2>設定</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Skill</column_1><column_2>スキル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_StartResting</column_1><column_2>休息をとる</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>General_StartSplit</column_1><column_2>Start Split</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Stash</column_1><column_2>Stash</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Stash</column_1><column_2>スタッシュ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>General_StopSplit</column_1><column_2>Stop Split</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Take</column_1><column_2>Take</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_TakeAll</column_1><column_2>Take All</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Tutorial</column_1><column_2>Tutorial</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Reset</column_1><column_2>Reset</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Transfer</column_1><column_2>Transfer</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Unlock</column_1><column_2>Unlock</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Take</column_1><column_2>取る</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_TakeAll</column_1><column_2>全て回収</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Tutorial</column_1><column_2>チュートリアル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Reset</column_1><column_2>リセット</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Transfer</column_1><column_2>転送</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Unlock</column_1><column_2>解除k</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>General_Yes</column_1><column_2>Yes</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Day</column_1><column_2>Day</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_WaitForOthers</column_1><column_2>Waiting for others...</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Compare</column_1><column_2>Compare</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Day</column_1><column_2>日</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_WaitForOthers</column_1><column_2>参加者を待っています...</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Compare</column_1><column_2>比較</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>GraphicSettings_High</column_1><column_2>High</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>GraphicSettings_Low</column_1><column_2>Low</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>GraphicSettings_VeryLow</column_1><column_2>Very Low</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>GraphicSettings_Medium</column_1><column_2>Medium</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>GraphicSettings_Potato</column_1><column_2>Potato</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>GraphicSettings_Potato</column_1><column_2>ポテト</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>GraphicSettings_VeryHigh</column_1><column_2>Very High</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Inventory_Container_NoLimit</column_1><column_2>No Limit</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Inventory_Container_CurrentEquipment</column_1><column_2>Current Equipment</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Inventory_Overview_BagWeight</column_1><column_2>Bag Weight</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Inventory_Overview_EquippedWeight</column_1><column_2>Equipped Weight</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Inventory_Overview_PocketWeight</column_1><column_2>Pocket Weight</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Inventory_Overview_TotalWeight</column_1><column_2>Total Weight</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Inventory_Section_All</column_1><column_2>All</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Inventory_Section_Ammo</column_1><column_2>Ammo</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Inventory_Section_Armors</column_1><column_2>Armors</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Inventory_Section_Backpack</column_1><column_2>Bag</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Inventory_Section_BackpackContent</column_1><column_2>Bag Content</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Inventory_Section_Boots</column_1><column_2>Boots</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Inventory_Container_NoLimit</column_1><column_2>無制限</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Inventory_Container_CurrentEquipment</column_1><column_2>現在の装備</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Inventory_Overview_BagWeight</column_1><column_2>バッグの重量量</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Inventory_Overview_EquippedWeight</column_1><column_2>装備品の重量</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Inventory_Overview_PocketWeight</column_1><column_2>ポケットの重量</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Inventory_Overview_TotalWeight</column_1><column_2>総重量</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Inventory_Section_All</column_1><column_2>全て</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Inventory_Section_Ammo</column_1><column_2>矢弾</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Inventory_Section_Armors</column_1><column_2>鎧</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Inventory_Section_Backpack</column_1><column_2>バッグ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Inventory_Section_BackpackContent</column_1><column_2>バッグの中身</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Inventory_Section_Boots</column_1><column_2>ブーツ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Inventory_Section_Deployables</column_1><column_2>Deployables</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Inventory_Section_Helmet</column_1><column_2>Helmets</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Inventory_Section_Ingredients</column_1><column_2>Ingredients</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Inventory_Section_MainHand</column_1><column_2>Main Hand</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Inventory_Section_Helmet</column_1><column_2>ヘルム</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Inventory_Section_Ingredients</column_1><column_2>材料</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Inventory_Section_MainHand</column_1><column_2>利き腕</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Inventory_Section_OffHand</column_1><column_2>Off Hand</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Inventory_Section_PocketContent</column_1><column_2>Pocket Content</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Inventory_Section_Quiver</column_1><column_2>Quiver</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Inventory_Section_PocketContent</column_1><column_2>ポケットの中身</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Inventory_Section_Quiver</column_1><column_2>矢筒</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Inventory_Section_Usables</column_1><column_2>Usables</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Inventory_Section_Weapons</column_1><column_2>Handheld</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Inventory_Title</column_1><column_2>Inventory</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_AttackSpeed</column_1><column_2>Attack Speed</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_Capacity</column_1><column_2>Capacity</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Inventory_Title</column_1><column_2>インベントリー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_AttackSpeed</column_1><column_2>攻撃速度</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_Capacity</column_1><column_2>容量</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_ColdProtection</column_1><column_2>Cold Weather Def.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_ConsumedItems</column_1><column_2>Consumed Items</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_Content</column_1><column_2>Content</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_Cooldown</column_1><column_2>Cooldown</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_ConsumedItems</column_1><column_2>消費アイテム</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_Content</column_1><column_2>コンテンツ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_Cooldown</column_1><column_2>クールダウン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_CorruptionProtection</column_1><column_2>Corruption Protection</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_Damage</column_1><column_2>Damage</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_DamageModifier</column_1><column_2>Damage Bonus</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_DamageProtection</column_1><column_2>Protection</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_DamageResistance</column_1><column_2>Resistances</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_Durability</column_1><column_2>Durability</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_Freshness</column_1><column_2>Freshness</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_Damage</column_1><column_2>ダメージ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_DamageModifier</column_1><column_2>ダメージボーナス</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_DamageProtection</column_1><column_2>プロテクション</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_DamageResistance</column_1><column_2>抵抗力</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_Durability</column_1><column_2>耐久力</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_Freshness</column_1><column_2>鮮度</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_HeatProtection</column_1><column_2>Hot Weather Def.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_HeatRegenPenalty</column_1><column_2>Heat Recovery</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_Impact</column_1><column_2>Impact</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_ImpactRes</column_1><column_2>Impact Resistance</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_ManaCost</column_1><column_2>Mana Cost</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_MovementPenalty</column_1><column_2>Movement Speed</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_QuickSlot</column_1><column_2>Quick Slot</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_ReducedFood</column_1><column_2>Reduced Food</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_ReducedWater</column_1><column_2>Reduced Water</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_Impact</column_1><column_2>衝撃</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_ImpactRes</column_1><column_2>衝撃耐性</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_ManaCost</column_1><column_2>消費マナ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_MovementPenalty</column_1><column_2>移動速度</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_QuickSlot</column_1><column_2>クイックスロット</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_ReducedFood</column_1><column_2>空腹度が上昇</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_ReducedWater</column_1><column_2>喉の渇きが上昇</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_RestoredFood</column_1><column_2>Restored Food</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_RestoredWater</column_1><column_2>Restored Drink</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_StaminaCost</column_1><column_2>Stamina Cost</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_StaminaUsePenalty</column_1><column_2>Stamina Cost</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_TotalWeight</column_1><column_2>Total Weight</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_Type</column_1><column_2>Type</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_StaminaCost</column_1><column_2>消費スタミナ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_StaminaUsePenalty</column_1><column_2>消費スタミナ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_TotalWeight</column_1><column_2>総重量</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_Type</column_1><column_2>種類</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_UnitWeight</column_1><column_2>Unit Weight</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_UnlimitedCapacity</column_1><column_2>Unlimited</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_Waterproof</column_1><column_2>Waterproof</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_Weight</column_1><column_2>Weight</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_UnlimitedCapacity</column_1><column_2>無制限</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_Waterproof</column_1><column_2>防水</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_Weight</column_1><column_2>重量</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_PouchCapacity</column_1><column_2>Pouch Bonus</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>LegacyChestMenu_ItemInChest</column_1><column_2>Item in Legacy Chest</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>LegacyChestMenu_SelectedItem</column_1><column_2>Selected Item</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>LegacyChestMenu_SelectedItem</column_1><column_2>アイテム選択</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>LegacyChestMenu_Title</column_1><column_2>Legacy Chest</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>LoadingScreen_Continue</column_1><column_2>To Continue</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>LoadingScreen_Loading</column_1><column_2>Loading</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>LoadingScreen_NextTip</column_1><column_2>Next Tip</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>LoadingScreen_Continue</column_1><column_2>続く</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>LoadingScreen_Loading</column_1><column_2>ローディング</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>LoadingScreen_NextTip</column_1><column_2>次のTIPS</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>LongTravel_RequiredTravelRation</column_1><column_2>Travel Rations required</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>LongTravel_Title</column_1><column_2>Travel to {1}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Notification_Trainer_SkillAlreadyKnown</column_1><column_2>Already known</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_General_Language</column_1><column_2>Text Language</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_General_LanguageAudio</column_1><column_2>Voice Language</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Gameplay_Blood</column_1><column_2>Blood</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Gameplay_Hud</column_1><column_2>Show HUD</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Gameplay_Notifications</column_1><column_2>Show Notifications</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Gameplay_EnemyHealth</column_1><column_2>Show Enemy Health</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Audio_MasterVolume</column_1><column_2>Master Volume</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Audio_MusicVolume</column_1><column_2>Music Volume</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Audio_SoundsVolume</column_1><column_2>Sounds Volume</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Audio_MuteNonFocus</column_1><column_2>Mute Non Focus</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Gameplay_InvertMouse</column_1><column_2>Invert Y Camera</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Gameplay_MouseSensitivity</column_1><column_2>Mouse Sensitivity</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Gameplay_CameraSensitivity</column_1><column_2>Camera Sensitivity</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Graphics_AnimationQuality</column_1><column_2>Animation Quality</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Graphics_AnisoFiltering</column_1><column_2>Aniso. Filtering</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Graphics_Antialiasing</column_1><column_2>Antialiasing</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Graphics_Brightness</column_1><column_2>Brightness</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Graphics_FoV</column_1><column_2>Field of View</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Graphics_FoVSolo</column_1><column_2>FoV Solo</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Graphics_FoVSplit</column_1><column_2>FoV Split</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Graphics_Bloom</column_1><column_2>Bloom</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Graphics_GraphicQuality</column_1><column_2>Graphic Quality</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Graphics_GrassDistance</column_1><column_2>Grass Distance</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Graphics_GrassQuantity</column_1><column_2>Grass Quantity</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Graphics_LightQuality</column_1><column_2>Light Quality</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Graphics_ModelQuality</column_1><column_2>Model Quality</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Graphics_ShadowQuality</column_1><column_2>Shadow Quality</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_General_Language</column_1><column_2>テキスト言語</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_General_LanguageAudio</column_1><column_2>音声言語</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Gameplay_Blood</column_1><column_2>血</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Gameplay_Hud</column_1><column_2>HUD表示</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Gameplay_Notifications</column_1><column_2>通知を表示</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Gameplay_EnemyHealth</column_1><column_2>敵の体力を表示</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Audio_MasterVolume</column_1><column_2>音量</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Audio_MusicVolume</column_1><column_2>音楽音量</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Audio_SoundsVolume</column_1><column_2>効果音</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Audio_MuteNonFocus</column_1><column_2>ミュート</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Gameplay_InvertMouse</column_1><column_2>Y軸カメラ反転</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Gameplay_MouseSensitivity</column_1><column_2>マウス感度</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Gameplay_CameraSensitivity</column_1><column_2>カメラ感度</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Graphics_AnimationQuality</column_1><column_2>アニメ品質</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Graphics_AnisoFiltering</column_1><column_2>アニソ・フィルタリング</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Graphics_Antialiasing</column_1><column_2>アンチエイリアシング</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Graphics_Brightness</column_1><column_2>輝度</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Graphics_FoV</column_1><column_2>視野角</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Graphics_FoVSolo</column_1><column_2>FoV ソロ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Graphics_FoVSplit</column_1><column_2>FoV 分割</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Graphics_Bloom</column_1><column_2>ブルーム</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Graphics_GraphicQuality</column_1><column_2>グラフィック品質</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Graphics_GrassDistance</column_1><column_2>草の表示距離</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Graphics_GrassQuantity</column_1><column_2>草の密度</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Graphics_LightQuality</column_1><column_2>光源品質</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Graphics_ModelQuality</column_1><column_2>モデル品質</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Graphics_ShadowQuality</column_1><column_2>影の品質</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>OptionMenu_Graphics_SSAO</column_1><column_2>SSAO</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Graphics_SSShadows</column_1><column_2>SS Shadows</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Graphics_TerrainQuality</column_1><column_2>Terrain Quality</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Graphics_TextureQuality</column_1><column_2>Texture Quality</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Graphics_WaterQuality</column_1><column_2>Water Quality</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Graphics_DoF</column_1><column_2>Depth of Field</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Graphics_MotionBlur</column_1><column_2>Motion Blur</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Graphics_WindowedMode</column_1><column_2>Windowed Mode</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Graphics_Resolution</column_1><column_2>Resolution</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_GraphicS_FrameRate</column_1><column_2>Frame Rate</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Graphics_VerticalSync</column_1><column_2>Vertical Sync</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Graphics_RenderScale</column_1><column_2>Render Scale</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Graphics_Scattering</column_1><column_2>Atmosphere Fog</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Graphics_AdvancedShader</column_1><column_2>Advanced Shader</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Controls_Section</column_1><column_2>Section</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Graphics_SSShadows</column_1><column_2>SS 影</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Graphics_TerrainQuality</column_1><column_2>地形品質</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Graphics_TextureQuality</column_1><column_2>テクスチャー品質</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Graphics_WaterQuality</column_1><column_2>水面品質</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Graphics_DoF</column_1><column_2>被写界深度</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Graphics_MotionBlur</column_1><column_2>モーションブラー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Graphics_WindowedMode</column_1><column_2>ウィンドウモード</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Graphics_Resolution</column_1><column_2>解像度</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_GraphicS_FrameRate</column_1><column_2>フレームレート</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Graphics_VerticalSync</column_1><column_2>垂直同期</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Graphics_RenderScale</column_1><column_2>レンダリングスケール</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Graphics_Scattering</column_1><column_2>大気密度</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Graphics_AdvancedShader</column_1><column_2>高度なシェーダー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Controls_Section</column_1><column_2>セクション</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>OptionMenu_Controls_Map1</column_1><column_2>Map 1</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>OptionMenu_Controls_Map2</column_1><column_2>Map 2</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>OptionMenu_Preset_Custom</column_1><column_2>Custom</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
