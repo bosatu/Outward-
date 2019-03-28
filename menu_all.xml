@@ -140,9 +140,9 @@ Otherwise, survival crafting is used to make essentials items such as Makeshift 
     <ooo_row><column_1>General_Settings</column_1><column_2>設定</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>General_Skill</column_1><column_2>スキル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>General_StartResting</column_1><column_2>休息をとる</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_StartSplit</column_1><column_2>Start Split</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_StartSplit</column_1><column_2>分割開始</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>General_Stash</column_1><column_2>スタッシュ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_StopSplit</column_1><column_2>Stop Split</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_StopSplit</column_1><column_2>分割停止</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>General_Take</column_1><column_2>取る</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>General_TakeAll</column_1><column_2>全て回収</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>General_Tutorial</column_1><column_2>チュートリアル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -178,12 +178,12 @@ Otherwise, survival crafting is used to make essentials items such as Makeshift 
     <ooo_row><column_1>Inventory_Section_OffHand</column_1><column_2>Off Hand</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Inventory_Section_PocketContent</column_1><column_2>ポケットの中身</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Inventory_Section_Quiver</column_1><column_2>矢筒</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Inventory_Section_Usables</column_1><column_2>Usables</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Inventory_Section_Weapons</column_1><column_2>Handheld</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Inventory_Section_Usables</column_1><column_2>消耗品</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Inventory_Section_Weapons</column_1><column_2>携行品</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Inventory_Title</column_1><column_2>インベントリー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_AttackSpeed</column_1><column_2>攻撃速度</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_Capacity</column_1><column_2>容量</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_ColdProtection</column_1><column_2>Cold Weather Def.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_ColdProtection</column_1><column_2>低温耐性</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_ConsumedItems</column_1><column_2>消費アイテム</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_Content</column_1><column_2>コンテンツ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_Cooldown</column_1><column_2>クールダウン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -194,7 +194,7 @@ Otherwise, survival crafting is used to make essentials items such as Makeshift 
     <ooo_row><column_1>ItemStat_DamageResistance</column_1><column_2>抵抗力</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_Durability</column_1><column_2>耐久力</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_Freshness</column_1><column_2>鮮度</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_HeatProtection</column_1><column_2>Hot Weather Def.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_HeatProtection</column_1><column_2>高温耐性.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_HeatRegenPenalty</column_1><column_2>Heat Recovery</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_Impact</column_1><column_2>衝撃</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_ImpactRes</column_1><column_2>衝撃耐性</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -203,13 +203,13 @@ Otherwise, survival crafting is used to make essentials items such as Makeshift 
     <ooo_row><column_1>ItemStat_QuickSlot</column_1><column_2>クイックスロット</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_ReducedFood</column_1><column_2>空腹度が上昇</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_ReducedWater</column_1><column_2>喉の渇きが上昇</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_RestoredFood</column_1><column_2>Restored Food</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_RestoredWater</column_1><column_2>Restored Drink</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_RestoredFood</column_1><column_2>食料補給</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_RestoredWater</column_1><column_2>水分補給</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_StaminaCost</column_1><column_2>消費スタミナ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_StaminaUsePenalty</column_1><column_2>消費スタミナ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_TotalWeight</column_1><column_2>総重量</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_Type</column_1><column_2>種類</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_UnitWeight</column_1><column_2>Unit Weight</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_UnitWeight</column_1><column_2>ユニットの重量</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_UnlimitedCapacity</column_1><column_2>無制限</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_Waterproof</column_1><column_2>防水</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_Weight</column_1><column_2>重量</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -265,149 +265,148 @@ Otherwise, survival crafting is used to make essentials items such as Makeshift 
     <ooo_row><column_1>OptionMenu_Graphics_Scattering</column_1><column_2>大気密度</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>OptionMenu_Graphics_AdvancedShader</column_1><column_2>高度なシェーダー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>OptionMenu_Controls_Section</column_1><column_2>セクション</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Controls_Map1</column_1><column_2>Map 1</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Controls_Map2</column_1><column_2>Map 2</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Preset_Custom</column_1><column_2>Custom</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Controls_Map1</column_1><column_2>マップ 1</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Controls_Map2</column_1><column_2>マップ 2</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Preset_Custom</column_1><column_2>カスタム</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>OptionMenu_Quality_High</column_1><column_2>High</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>OptionMenu_Quality_Low</column_1><column_2>Low</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>OptionMenu_Quality_Medium</column_1><column_2>Medium</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>OptionMenu_Quality_Off</column_1><column_2>Off</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>OptionMenu_Quality_On</column_1><column_2>On</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Quality_Ultra</column_1><column_2>Ultra</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Quality_Ultra</column_1><column_2>ウルトラ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>OptionMenu_Quality_VeryHigh</column_1><column_2>Very High</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>OptionMenu_Quality_VeryLow</column_1><column_2>Very Low</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Tab_Audio</column_1><column_2>Audio</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Tab_ControlsKeyboard</column_1><column_2>Keyboard</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Tab_ControlsGamepad</column_1><column_2>Gamepad</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Tab_Gameplay</column_1><column_2>Gameplay</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Tab_Graphics</column_1><column_2>Graphics</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Tab_Options</column_1><column_2>Settings</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Tab_Display</column_1><column_2>Display</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Tab_General</column_1><column_2>General</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Title</column_1><column_2>Settings</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>PauseMenu_BackToMainMenu</column_1><column_2>Go Back to Main Menu</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>PauseMenu_PauseButton</column_1><column_2>Pause Game</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>PauseMenu_UnpauseButton</column_1><column_2>Unpause Game</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>PauseMenu_Credits</column_1><column_2>Credits</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>PlayerMenu_Tab_Crafting</column_1><column_2>Crafting</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>PlayerMenu_Tab_Equipment</column_1><column_2>Equipment</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>PlayerMenu_Tab_Inventory</column_1><column_2>Inventory</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>PlayerMenu_Tab_Journal</column_1><column_2>Journal</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>PlayerMenu_Tab_QuickSlot</column_1><column_2>Quick Slot</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>PlayerMenu_Tab_Skills</column_1><column_2>Skills</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>PlayerMenu_Tab_Status</column_1><column_2>Vitals</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Rest_ChancesOfAmbush</column_1><column_2>Ambush</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Tab_Audio</column_1><column_2>音楽</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Tab_ControlsKeyboard</column_1><column_2>キーボード</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Tab_ControlsGamepad</column_1><column_2>ゲームパッド</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Tab_Gameplay</column_1><column_2>ゲームプレイ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Tab_Graphics</column_1><column_2>グラフィック</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Tab_Options</column_1><column_2>設定</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Tab_Display</column_1><column_2>画面</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Tab_General</column_1><column_2>総合</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Title</column_1><column_2>設定</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>PauseMenu_BackToMainMenu</column_1><column_2>メインメニューに戻る</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>PauseMenu_PauseButton</column_1><column_2>一時停止</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>PauseMenu_UnpauseButton</column_1><column_2>一時停止解除e</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>PauseMenu_Credits</column_1><column_2>クレジット</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>PlayerMenu_Tab_Crafting</column_1><column_2>製造</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>PlayerMenu_Tab_Equipment</column_1><column_2>装備</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>PlayerMenu_Tab_Inventory</column_1><column_2>所持品</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>PlayerMenu_Tab_Journal</column_1><column_2>ジャーナル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>PlayerMenu_Tab_QuickSlot</column_1><column_2>クイックスロット</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>PlayerMenu_Tab_Skills</column_1><column_2>スキル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>PlayerMenu_Tab_Status</column_1><column_2>急所</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rest_ChancesOfAmbush</column_1><column_2>待ち伏せ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Rest_Description_Guard</column_1><column_2>警戒時間を増やせば、休息時の待ち伏せの可能性が減少します。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Rest_Description_GuardSafeZone</column_1><column_2>This location is safe. You can rest without fear of being ambushed.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Rest_Description_Repair</column_1><column_2>Repairing restores your equipped items’ durability.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rest_Description_GuardSafeZone</column_1><column_2>この場所は安全です。 待ち伏せされることを恐れずに休むことができます。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rest_Description_Repair</column_1><column_2>修理すると装備品の耐久が回復します。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Rest_Description_Sleep</column_1><column_2>睡眠は疲れ、健康、スタミナを癒しますが、マナを減少させます。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Rest_Guard_Resume</column_1><column_2>&lt;color=#EA9B31&gt;{1}%&lt;/color&gt;</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Rest_PosRestNeedOverview</column_1><column_2>Needs</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Rest_Repair_AfterRestDurability</column_1><column_2>Equipment Durability after rest</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Rest_Repair_CurrentDurability</column_1><column_2>Current Equipment Durability</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Rest_Sleep_After_Status</column_1><column_2>After the Resting Time, your fatigue status will be {1}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Rest_Sleep_Current_Status</column_1><column_2>Your fatigue status is {1}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Rest_Sleep_Fully_Recovered</column_1><column_2>You need {1} to be fully recovered</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Rest_Sleep_Resume</column_1><column_2>Your statuses will be: Fatigue: {1}Drink:{2}Food:{3}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Rest_Title_Guard</column_1><column_2>Guard</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Rest_Title_Repair</column_1><column_2>Repairing</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Rest_Title_Resting</column_1><column_2>Resting</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Rest_Title_SafeZone</column_1><column_2>Safe Zone</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Rest_Title_Sleep</column_1><column_2>Sleep</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Rest_TotalRepair</column_1><column_2>Total Repair:</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ShopMenu_BuyCartInfo</column_1><column_2>Player is buying</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ShopMenu_MerchantInventory</column_1><column_2>Merchant’s Stock</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ShopMenu_PlayerInventoryTitle</column_1><column_2>{1}’s Inventory</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ShopMenu_SellCartInfo</column_1><column_2>Player is selling</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>SkillMenu_ActiveSkill</column_1><column_2>Active Skills</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>SkillMenu_PassiveSkill</column_1><column_2>Passive Skills</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>SkillMenu_CosmeticSkill</column_1><column_2>Cosmetic Skills</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>SkillTree_Name_Eto</column_1><column_2>Kazite Spellblade</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>SkillTree_Name_Hermit</column_1><column_2>Cabal Hermit</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>SkillTree_Name_Hunter</column_1><column_2>Wild Hunter</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>SkillTree_Name_Mercenary</column_1><column_2>Mercenary</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>SkillTree_Name_Monk</column_1><column_2>Warrior Monk</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>SkillTree_Name_Philosopher</column_1><column_2>Philosopher</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>SkillTree_Name_Rogue</column_1><column_2>Rogue Engineer</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>SkillTree_Name_Sage</column_1><column_2>Rune Sage</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Sleep_Title_LocalPlayer</column_1><column_2>How long do you want to sleep?</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Sleep_Title_OtherPlayer</column_1><column_2>{1} wants to sleep for {2} hours, do you want to sleep too?</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Sleep_Title_Waiting</column_1><column_2>Waiting for others....</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Sleep_VoteStatus_NotInBed</column_1><column_2>Not in bed</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Sleep_VoteStatus_Voting</column_1><column_2>Voting</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>TrainerMenu_Requirement_Breakthrough</column_1><column_2>Breakthrough Point</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>TrainerMenu_Requirement_Faction</column_1><column_2>Faction: {1}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>TrainerMenu_Requirement_Skill</column_1><column_2>Skill: {1}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>TrainerMenu_Requirement_SkillChoice</column_1><column_2>Skill: {1} or {2}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>TrainerMenu_Requirement_Title</column_1><column_2>Skill Cost</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>TrainerMenu_Requirement_Unlocked</column_1><column_2>Unlocked</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rest_PosRestNeedOverview</column_1><column_2>必要</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rest_Repair_AfterRestDurability</column_1><column_2>休息後の装備の耐久力</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rest_Repair_CurrentDurability</column_1><column_2>現在の装備の耐久力</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rest_Sleep_After_Status</column_1><column_2>休憩後の疲労状態 {1}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rest_Sleep_Current_Status</column_1><column_2>現在の疲労状況 {1}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rest_Sleep_Fully_Recovered</column_1><column_2>完全に回復するには{1} が必要です。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rest_Sleep_Resume</column_1><column_2>ステータス状況: 疲労: {1}渇き:{2}空腹:{3}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rest_Title_Guard</column_1><column_2>ガード</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rest_Title_Repair</column_1><column_2>修理</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rest_Title_Resting</column_1><column_2>休息</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rest_Title_SafeZone</column_1><column_2>安全地帯</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rest_Title_Sleep</column_1><column_2>睡眠</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rest_TotalRepair</column_1><column_2>全て修理:</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ShopMenu_BuyCartInfo</column_1><column_2>購入する</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ShopMenu_MerchantInventory</column_1><column_2>商人の在庫k</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ShopMenu_PlayerInventoryTitle</column_1><column_2>{1}のインベントリー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ShopMenu_SellCartInfo</column_1><column_2>販売する</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>SkillMenu_ActiveSkill</column_1><column_2>アクティブスキル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>SkillMenu_PassiveSkill</column_1><column_2>パッシブスキル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>SkillMenu_CosmeticSkill</column_1><column_2>コスメティックスキル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>SkillTree_Name_Eto</column_1><column_2>カジテ・スペルブレード</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>SkillTree_Name_Hermit</column_1><column_2>ハーミット・カバル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>SkillTree_Name_Hunter</column_1><column_2>ワイルドハンター</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>SkillTree_Name_Mercenary</column_1><column_2>傭兵</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>SkillTree_Name_Monk</column_1><column_2>僧兵</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>SkillTree_Name_Philosopher</column_1><column_2>哲学者</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>SkillTree_Name_Rogue</column_1><column_2>ローーグ・エンジニア</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>SkillTree_Name_Sage</column_1><column_2>ルーンセージ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Sleep_Title_LocalPlayer</column_1><column_2>どれくらい睡眠をとりますか？</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>    <ooo_row><column_1>Sleep_Title_OtherPlayer</column_1><column_2>{1} wants to sleep for {2} hours, 睡眠をとりますか?</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Sleep_Title_Waiting</column_1><column_2>待っている....</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Sleep_VoteStatus_NotInBed</column_1><column_2>ベッドがありません</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Sleep_VoteStatus_Voting</column_1><column_2>投票</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>TrainerMenu_Requirement_Breakthrough</column_1><column_2>ブレークスルー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>TrainerMenu_Requirement_Faction</column_1><column_2>派閥: {1}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>TrainerMenu_Requirement_Skill</column_1><column_2>スキルl: {1}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>TrainerMenu_Requirement_SkillChoice</column_1><column_2>スキル: {1} or {2}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>TrainerMenu_Requirement_Title</column_1><column_2>消費スキル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>TrainerMenu_Requirement_Unlocked</column_1><column_2>解除</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>TrainerMenu_UnknownSkill</column_1><column_2>Unknown</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>TrainerMenu_YourResources</column_1><column_2>Your Resources</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>UseItem_WaterContainerEmpty</column_1><column_2>{1} is empty.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>WaterType_Clean</column_1><column_2>Clean Water</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>WaterType_Fresh</column_1><column_2>River Water</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>WaterType_Rancid</column_1><column_2>Rancid Water</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>WaterType_Salt</column_1><column_2>Salt Water</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Weather_Cold</column_1><column_2>Cold</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Weather_Coldest</column_1><column_2>Coldest</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Weather_Fresh</column_1><column_2>Fresh</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Weather_Hot</column_1><column_2>Hot</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Weather_Hottest</column_1><column_2>Hottest</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>TrainerMenu_YourResources</column_1><column_2>あなたのリソース</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>UseItem_WaterContainerEmpty</column_1><column_2>{1} は空.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>WaterType_Clean</column_1><column_2>奇麗な水</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>WaterType_Fresh</column_1><column_2>川の水</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>WaterType_Rancid</column_1><column_2>汚水</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>WaterType_Salt</column_1><column_2>塩水</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Weather_Cold</column_1><column_2>冷たい</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Weather_Coldest</column_1><column_2>凍っている</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Weather_Fresh</column_1><column_2>新鮮</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Weather_Hot</column_1><column_2>熱い</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Weather_Hottest</column_1><column_2>沸騰している</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Weather_Neutral</column_1><column_2>Neutral</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Weather_VeryCold</column_1><column_2>Very Cold</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Weather_VeryHot</column_1><column_2>Very Hot</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Weather_Warm</column_1><column_2>Warm</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Weather_VeryCold</column_1><column_2>とても冷たい</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Weather_VeryHot</column_1><column_2>とても暑い</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Weather_Warm</column_1><column_2>暖かい</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>OptionMenu_CapturePending</column_1><column_2>Capture Pending</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Controls_ClearKeybind</column_1><column_2>Clear Keybind</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Loading_WaitingPlayerResume</column_1><column_2>Waiting for other players to resume.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Loading_OpeningConnection</column_1><column_2>Opening connection to friends.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Controls_ClearKeybind</column_1><column_2>キーバインドを削除</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Loading_WaitingPlayerResume</column_1><column_2>参加者の再開を待っています。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Loading_OpeningConnection</column_1><column_2>友人を招待</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Dialogue_DefaultEmpty</column_1><column_2>...</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>OptionMenu_Audio_DialogueVolume</column_1><column_2>Voices Volume</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Loading_Area</column_1><column_2>Loading Area</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Loading_Characters</column_1><column_2>Loading Characters</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Loading_Items</column_1><column_2>Loading Items</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Audio_DialogueVolume</column_1><column_2>音声音量</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Loading_Area</column_1><column_2>ローディングエリア</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Loading_Characters</column_1><column_2>ローディングキャラクター</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Loading_Items</column_1><column_2>ローディングアイテム</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Loading_PlayerSpawn</column_1><column_2>Positioning Players</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Connection_Preparation_Joining</column_1><column_2>Joining...</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Connection_Preparation_Saving</column_1><column_2>Saving...</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Connection_Preparation_ReloadingWorld</column_1><column_2>Reloading World...</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Connection_Error_ConnectionWithHostLost</column_1><column_2>Connection with host lost</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Connection_Error_JoinRoomFailed</column_1><column_2>Could not join world</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CraftingMenu_Any_Meat</column_1><column_2>Meat</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CraftingMenu_Any_Fish</column_1><column_2>Fish</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CraftingMenu_Any_Vegetable</column_1><column_2>Vegetable</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CraftingMenu_Any_Water</column_1><column_2>Water</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CraftingMenu_Any_Egg</column_1><column_2>Egg</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CraftingMenu_Any_Bread</column_1><column_2>Bread</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CraftingMenu_Any_RationIngredient</column_1><column_2>Ration Ingredient</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CraftingMenu_Any_BasicBoots</column_1><column_2>Basic Boots</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CraftingMenu_Any_BasicArmor</column_1><column_2>Basic Armor</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CraftingMenu_Any_BasicHelm</column_1><column_2>Basic Helm</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_Needs</column_1><column_2>Needs</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_Positive</column_1><column_2>Positive</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_Negative</column_1><column_2>Negative</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>PlayerMenu_Tab_Effects</column_1><column_2>Effects</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Misc</column_1><column_2>Misc.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Connection_Preparation_Joining</column_1><column_2>参加ちゅう...</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Connection_Preparation_Saving</column_1><column_2>保存中...</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Connection_Preparation_ReloadingWorld</column_1><column_2>ワールドを再読み込み...</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Connection_Error_ConnectionWithHostLost</column_1><column_2>ホストとの接続を失った</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Connection_Error_JoinRoomFailed</column_1><column_2>ワールドに参加できません</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CraftingMenu_Any_Meat</column_1><column_2>肉</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CraftingMenu_Any_Fish</column_1><column_2>魚</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CraftingMenu_Any_Vegetable</column_1><column_2>野菜</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CraftingMenu_Any_Water</column_1><column_2>水</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CraftingMenu_Any_Egg</column_1><column_2>卵</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CraftingMenu_Any_Bread</column_1><column_2>パン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CraftingMenu_Any_RationIngredient</column_1><column_2>保存食品</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CraftingMenu_Any_BasicBoots</column_1><column_2>一般的なブーツ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CraftingMenu_Any_BasicArmor</column_1><column_2>一般的な鎧</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CraftingMenu_Any_BasicHelm</column_1><column_2>一般的なヘルム</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_Needs</column_1><column_2>必要</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_Positive</column_1><column_2>ポジティブ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_Negative</column_1><column_2>ネガティブ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>PlayerMenu_Tab_Effects</column_1><column_2>効果</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Misc</column_1><column_2>その他.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CraftingMenu_MissingIngredients</column_1><column_2>- Missing Ingredients -</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>EquipStatName_Physical</column_1><column_2>Physical</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>EquipStatName_Ethereal</column_1><column_2>Ethereal</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>EquipStatName_Frost</column_1><column_2>Frost</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>EquipStatName_Fire</column_1><column_2>Fire</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>EquipStatName_Lightning</column_1><column_2>Lightning</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>EquipStatName_Decay</column_1><column_2>Decay</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>EquipStatName_AttackSpeed</column_1><column_2>Attack Speed</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>EquipStatName_Impact</column_1><column_2>Impact</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>EquipStatName_Protection</column_1><column_2>Protection</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>EquipStatName_MovementSpeed</column_1><column_2>Speed</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>EquipStatName_StaminaUse</column_1><column_2>Stamina Use</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>EquipStatName_ManaUse</column_1><column_2>Mana Use</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>EquipStatName_HotDef</column_1><column_2>Heat Defense</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>EquipStatName_ColdDef</column_1><column_2>Cold Defense</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>QuestMenu_Separator_Active</column_1><column_2>- Active -</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>QuestMenu_Separator_Completed</column_1><column_2>- Completed -</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ShopMenu_Transaction_Pay</column_1><column_2>You pay</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ShopMenu_Transaction_Receive</column_1><column_2>You receive</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>EquipmentMenu_Empty_Helmet</column_1><column_2>Helmet</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>EquipmentMenu_Empty_Helmet_Desc</column_1><column_2>Head armor which reduces the damage you receive.
+    <ooo_row><column_1>EquipStatName_Physical</column_1><column_2>物理</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>EquipStatName_Ethereal</column_1><column_2>エターナル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>EquipStatName_Frost</column_1><column_2>フロスト</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>EquipStatName_Fire</column_1><column_2>ファイアー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>EquipStatName_Lightning</column_1><column_2>ライトニング</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>EquipStatName_Decay</column_1><column_2>減衰</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>EquipStatName_AttackSpeed</column_1><column_2>攻撃速度</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>EquipStatName_Impact</column_1><column_2>衝撃</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>EquipStatName_Protection</column_1><column_2>保護</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>EquipStatName_MovementSpeed</column_1><column_2>速度</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>EquipStatName_StaminaUse</column_1><column_2>スタミナ使用</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>EquipStatName_ManaUse</column_1><column_2>マナ使用</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>EquipStatName_HotDef</column_1><column_2>耐熱防御</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>EquipStatName_ColdDef</column_1><column_2>耐寒防御</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QuestMenu_Separator_Active</column_1><column_2>- アクティブ -</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QuestMenu_Separator_Completed</column_1><column_2>- 完了 -</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ShopMenu_Transaction_Pay</column_1><column_2>支払い</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ShopMenu_Transaction_Receive</column_1><column_2>受け取る</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>EquipmentMenu_Empty_Helmet</column_1><column_2>ヘルム</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>EquipmentMenu_Empty_Helmet_Desc</column_1><column_2>頭に受けるダメージを軽減します。.
 
 
 
