@@ -7,8 +7,8 @@
     <ooo_row><column_1>100002</column_1><column_2>普通の斧 2H</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>100003</column_1><column_2>普通の剣</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>100004</column_1><column_2>普通の剣 2H</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>100005</column_1><column_2>普通の棍棒 </column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>100006</column_1><column_2>普通の棍棒 2H</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>100005</column_1><column_2>普通の棒 </column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>100006</column_1><column_2>普通の棒 2H</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>100007</column_1><column_2>普通の長柄武器</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>100008</column_1><column_2>普通の槍</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2000010</column_1><column_2>鉄の剣</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -19,15 +19,15 @@
     <ooo_row><column_1>2000050</column_1><column_2>牙の剣</column_2><column_3>敵を出血させる。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2000060</column_1><column_2>マチェット</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2000070</column_1><column_2>大理石の剣</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2000080</column_1><column_2>金のリッチの剣</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2000080</column_1><column_2>ゴールドリッチの剣</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2000090</column_1><column_2>古い軍人のグラディウス</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2000100</column_1><column_2>ルーンブレイド</column_2><column_3>限られた時間の間、魔法の剣を召喚する。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2000110</column_1><column_2>砂漠のケペシュ</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2000120</column_1><column_2>翡翠のシミター</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2000130</column_1><column_2>暗殺者の剣</column_2><column_3>敵の動きを鈍くし、出血させる。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2000140</column_1><column_2>パラジウムの剣</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2000150</column_1><column_2>Brand</column_2><column_3>敵に冷気と痛みを与え、凍結ダメージと物理ダメージを増加させる。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2000151</column_1><column_2>奇妙な錆びた剣</column_2><column_3>“指揮官はこの剣を王に相応しいものにすると言った。”</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2000150</column_1><column_2>ブランド</column_2><column_3>敵に冷気と痛みを与え、凍結ダメージと物理ダメージを増加させる。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2000151</column_1><column_2>奇妙な錆びた剣</column_2><column_3>“指揮官は言った、この剣を王に相応しいものにする、と”</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2000160</column_1><column_2>ツァーリの剣</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2010000</column_1><column_2>鉄の斧</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2010020</column_1><column_2>リビングウッドの斧</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -36,41 +36,41 @@
     <ooo_row><column_1>2010040</column_1><column_2>牙の斧</column_2><column_3>敵を出血させる。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2010050</column_1><column_2>ハチェット</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2010060</column_1><column_2>大理石の斧</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2010070</column_1><column_2>落陽の斧</column_2><column_3>“夜明けの紡ぎ手の知識が我らを作り直し、磁器が我らの肉に移された。”
+    <ooo_row><column_1>2010070</column_1><column_2>落陽の斧</column_2><column_3>“夜明けの紡ぎ手の知恵が我らを作り直し、磁器は我らの肉に移された。”
 
 
 
 敵を燃やす。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2010080</column_1><column_2>ビーストゴーレムの斧</column_2><column_3>敵を出血させる。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2010090</column_1><column_2>Tuanosaur Axe</column_2><column_3>敵を大量に出血させる。Inflicts Extreme Bleeding on enemies.</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2010090</column_1><column_2>トーノサウルスの斧</column_2><column_3>敵を大量に出血させる。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2010100</column_1><column_2>戦慄の斧</column_2><column_3>敵を猛毒にかける。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2010110</column_1><column_2>Palladium Axe</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2010120</column_1><column_2>ツァーリの斧</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2020010</column_1><column_2>鉄のメイス</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2020020</column_1><column_2>荒々しいクラブ</column_2><column_3>敵を混乱させる。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2020030</column_1><column_2>翡翠のリッチのメイス</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2020020</column_1><column_2>荒々しい棍棒</column_2><column_3>敵を混乱させる。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2020030</column_1><column_2>ジェイドリッチのメイス</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2020040</column_1><column_2>大理石のモーニングスター</column_2><column_3>敵を混乱させる。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2020050</column_1><column_2>牙のクラブ</column_2><column_3>敵を出血させる。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2020060</column_1><column_2>金のリッチのメイス</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2020070</column_1><column_2>マートンの火かき棒</column_2><column_3>“決して冷えない神官の武器は、死ねない者にとっての監督官である”</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2020050</column_1><column_2>牙の棍棒</column_2><column_3>敵を出血させる。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2020060</column_1><column_2>ゴールドリッチのメイス</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2020070</column_1><column_2>マートンの火かき棒</column_2><column_3>“決して冷えない神官の武器は、不死者共にピッタリだ”</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2020080</column_1><column_2>巨大な鉄の鍵</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2020090</column_1><column_2>鍛冶師のハンマー</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2020091</column_1><column_2>鍛冶師の由緒あるハンマー</column_2><column_3>“かの鍛冶師は武器庫中の武器全てを鍛え直し、強固で鋭利にしようとした。”</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2020100</column_1><column_2>Palladium Mace</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2020110</column_1><column_2>黒曜石のメイス</column_2><column_3>敵を燃やす。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2020120</column_1><column_2>ツァーリのメイス</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2020130</column_1><column_2>原始的なクラブ</column_2><column_3>武器としては下の下だが、木で簡単に作ることができる。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2020140</column_1><column_2>Skycrown Mace</column_2><column_3>“夕暮れを作りし者の知識が我らを王にし、我らは空の宮殿をこの大地の下に立てた。”</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2020130</column_1><column_2>原始的な棍棒</column_2><column_3>武器としては下の下だが、木で簡単に作ることができる。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2020140</column_1><column_2>天冠のメイス</column_2><column_3>“夕暮れを作りし者の知恵が我らを王にし、我らは天空城をこの大地の下に建てた。”</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2100000</column_1><column_2>祈祷者のクレイモア</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2100010</column_1><column_2>狼のクレイモア</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2100020</column_1><column_2>牙の大剣</column_2><column_3>敵を出血させる。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2100030</column_1><column_2>Zagis' Saw</column_2><column_3>Immense man-cutting saw of the bandit lord Zagis.
+    <ooo_row><column_1>2100030</column_1><column_2>ザギスのノコギリ</column_2><column_3>蛮族長ザギスの恐ろしく切れるノコギリ。
 
 
 
 敵に痛みを与える。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2100040</column_1><column_2>大理石のクレイモア</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2100050</column_1><column_2>金のリッチのクレイモア</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2100050</column_1><column_2>ゴールドリッチのクレイモア</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2100060</column_1><column_2>ゴーレムのレイピア</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2100061</column_1><column_2>壊れたゴーレムのレイピア</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2100070</column_1><column_2>イバラのクレイモア</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -82,83 +82,83 @@
     <ooo_row><column_1>2100130</column_1><column_2>先導者のクレイモア</column_2><column_3>全ての肉体を持たない霊体の敵を脆弱にする。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2100140</column_1><column_2>ツァーリのクレイモア</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2100150</column_1><column_2>大いなる王家のケペシュ</column_2><column_3>敵に痛みを与える。</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2100999</column_1><column_2>Great Runic Blade</column_2><column_3>Summoned magical sword that lasts for a limited amount of time.</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2110000</column_1><column_2>Brutal Greataxe</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2100999</column_1><column_2>壮大なルーンブレイド</column_2><column_3>限られた時間の間、魔法の剣を召喚する。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2110000</column_1><column_2>荒々しい大斧</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2110001</column_1><column_2>-</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2110010</column_1><column_2>Fang Greataxe</column_2><column_3>Inflicts Bleeding on enemies.</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2110020</column_1><column_2>Marble Greataxe</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2110030</column_1><column_2>Iron Greataxe</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2110040</column_1><column_2>Felling Greataxe</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2110050</column_1><column_2>Crescent Greataxe</column_2><column_3>Inflicts Vulnerability to all non-physical elements on enemies.</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2110060</column_1><column_2>Tuanosaur Greataxe</column_2><column_3>Inflicts Extreme Bleeding on enemies.</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2110070</column_1><column_2>Giantkind Greataxe</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2110010</column_1><column_2>牙の大斧</column_2><column_3>敵を出血させる。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2110020</column_1><column_2>大理石の 大斧</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2110030</column_1><column_2>鉄の大斧</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2110040</column_1><column_2>木こりの大斧</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2110050</column_1><column_2>三日月の大斧</column_2><column_3>全ての肉体を持たない霊体の敵を脆弱にする。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2110060</column_1><column_2>トーノサウルスの大斧</column_2><column_3>敵を大量に出血させる。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2110070</column_1><column_2>巨人種の大斧</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2110080</column_1><column_2>Palladium Greataxe</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2110090</column_1><column_2>Tsar Greataxe</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2110100</column_1><column_2>Worldedge Greataxe</column_2><column_3>“The Dusk Father’s knowledge is eternal; this world is but one stop in His travel across the great void.”</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2120000</column_1><column_2>Brutal Greatmace</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2120010</column_1><column_2>Wolf Greathammer</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2120020</column_1><column_2>Fang Greatclub</column_2><column_3>Inflicts Bleeding on enemies.</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2120030</column_1><column_2>Marble Greathammer</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2120040</column_1><column_2>Mantis Greatpick</column_2><column_3>Inflicts Pain on enemies.</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2120050</column_1><column_2>Mining Pick</column_2><column_3>Essential tool to harvest mineral deposits.</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2120060</column_1><column_2>Pyrite Greathammer</column_2><column_3>Inflicts Confusion on enemies.</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2120070</column_1><column_2>Pillar Greathammer</column_2><column_3>Artifact greathammer of an executioner who guarded the Spire of Light, crushing the bones of invaders before feeding on them.</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2120080</column_1><column_2>Iron Greathammer</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2120090</column_1><column_2>Manticore Greatmace</column_2><column_3>Inflicts Extreme Poison on enemies.</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2110090</column_1><column_2>ツァーリの大斧</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2110100</column_1><column_2>世界刃の大斧</column_2><column_3>“夕暮れを作りし者の知恵は永遠なり。この世は彼の者の大いなる虚無を超える旅の一端でしかない。”</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2120000</column_1><column_2>荒々しい大斧</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2120010</column_1><column_2>狼の大槌</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2120020</column_1><column_2>牙の大棍棒</column_2><column_3>敵を出血させる。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2120030</column_1><column_2>大理石の大槌</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2120040</column_1><column_2>カマキリの大ツルハシ</column_2><column_3>敵に痛みを与える。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2120050</column_1><column_2>ツルハシ</column_2><column_3>鉱物の採取に必須の道具。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2120060</column_1><column_2>黄鉄鉱の大槌</column_2><column_3>敵を混乱させる。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2120070</column_1><column_2>聖柱の大槌</column_2><column_3>侵略者の骨を粉砕し光の尖塔を守った、執行者の秘宝である大槌</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2120080</column_1><column_2>鉄の大槌</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2120090</column_1><column_2>マンティコアグレートメイス</column_2><column_3>敵を猛毒にかける。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2120110</column_1><column_2>Palladium Greathammer</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2120120</column_1><column_2>Obsidian Greatmace</column_2><column_3>Inflicts Burning on enemies.</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2120130</column_1><column_2>Tsar Greathammer</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2130000</column_1><column_2>Brutal Spear</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2130010</column_1><column_2>Worn Guisarme</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2130020</column_1><column_2>Fang Trident</column_2><column_3>Inflicts Bleeding on enemies.</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2130021</column_1><column_2>Werlig Spear</column_2><column_3>Artifact spear of the Cabal of Winds.
+    <ooo_row><column_1>2120120</column_1><column_2>黒曜石のグレートメイス</column_2><column_3>敵を燃やす。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2120130</column_1><column_2>ツァーリの大槌</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2130000</column_1><column_2>荒々しい槍</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2130010</column_1><column_2>使い古しのギザーム</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2130020</column_1><column_2>牙のトライデント</column_2><column_3>敵を出血させる。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2130021</column_1><column_2>ヴェルリッヒの槍</column_2><column_3>風の一党の秘宝である槍。
 
 
 
-It was forged to slay horrors, who are weak to lightning.</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2130030</column_1><column_2>Quarterstaff</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2130040</column_1><column_2>Pitchfork</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2130050</column_1><column_2>Marble Spear</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2130060</column_1><column_2>Gold-Lich Spear</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2130070</column_1><column_2>Old Legion Spear</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2130080</column_1><column_2>Troglodyte Trident</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2130081</column_1><column_2>Troglodyte Pole Mace</column_2><column_3>Inflicts Confusion on enemies.</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2130082</column_1><column_2>Troglodyte Halberd</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2130100</column_1><column_2>Thorny Spear</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2130110</column_1><column_2>Iron Spear</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2130120</column_1><column_2>Phytosaur Spear</column_2><column_3>Inflicts Poison on enemies.</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2130130</column_1><column_2>Fishing Harpoon</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+光に脆弱な恐ろしき者達を殺すために鍛えられた</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2130030</column_1><column_2>六尺棒</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2130040</column_1><column_2>ピッチフォーク</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2130050</column_1><column_2>大理石の槍</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2130060</column_1><column_2>ゴールドリッチの槍</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2130070</column_1><column_2>古い軍人の槍</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2130080</column_1><column_2>隠者のトライデント</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2130081</column_1><column_2>隠者のポールメイス</column_2><column_3>敵を混乱させる。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2130082</column_1><column_2>隠者のハルバード</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2130100</column_1><column_2>イバラの槍</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2130110</column_1><column_2>鉄の槍</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2130120</column_1><column_2>フィトサウルスの槍</column_2><column_3>敵を毒にかける。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2130130</column_1><column_2>釣り用の銛</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2130140</column_1><column_2>Palladium Spear</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2130150</column_1><column_2>Tsar Spear</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2140000</column_1><column_2>Iron Halberd</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2140010</column_1><column_2>Cleaver Halberd</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2140020</column_1><column_2>Fang Halberd</column_2><column_3>Inflicts Bleeding on enemies.</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2140030</column_1><column_2>Marble Halberd</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2140050</column_1><column_2>Mushroom Halberd</column_2><column_3>Inflicts Poison on enemies.</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2140060</column_1><column_2>Thrice-Wrought Halberd</column_2><column_3>Artifact forged long ago by a female blacksmith for a Gold Lich she loved.</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2140070</column_1><column_2>Crescent Scythe</column_2><column_3>Inflicts Vulnerability to all non-physical elements on enemies.</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2140080</column_1><column_2>Beast Golem Halberd</column_2><column_3>Inflicts Bleeding on enemies.</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2140090</column_1><column_2>Giantkind Halberd</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2130150</column_1><column_2>ツァーリの槍</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2140000</column_1><column_2>鉄のハルバード</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2140010</column_1><column_2>肉切りのハルバード</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2140020</column_1><column_2>牙のハルバード</column_2><column_3>敵を出血させる。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2140030</column_1><column_2>大理石のハルバード</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2140050</column_1><column_2>キノコのハルバード</column_2><column_3>敵を毒にかける。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2140060</column_1><column_2>傑作のハルバード</column_2><column_3>遥か昔、女鍛冶師によって愛するゴールドリッチの為に鍛えられた。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2140070</column_1><column_2>三日月の大鎌</column_2><column_3>全ての肉体を持たない霊体の敵を脆弱にする。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2140080</column_1><column_2>ビーストゴーレムのハルバード</column_2><column_3>敵を出血させる。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2140090</column_1><column_2>巨人種のハルバード</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2140100</column_1><column_2>Palladium Halberd</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2140110</column_1><column_2>Tsar Halberd</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2140120</column_1><column_2>Dreamer Halberd</column_2><column_3>“The Dusk Father’s knowledge is universal; even lesser beings can learn what we have been taught.”</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2150000</column_1><column_2>Scholar’s Staff</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2150001</column_1><column_2>Mage’s Poking Stick</column_2><column_3>“The mage who used this stick favored magic that manipulated fire, shadow and time.”</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2150010</column_1><column_2>Jade-Lich Staff</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2150030</column_1><column_2>Compasswood Staff</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2150031</column_1><column_2>Rotwood Staff</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2150040</column_1><column_2>Troglodyte Staff</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2150050</column_1><column_2>Master’s Staff</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2200000</column_1><column_2>Simple Bow</column_2><column_3>Beginner's short bow mostly used to hunt small game, due to its lack of power.</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2200010</column_1><column_2>Recurve Bow</column_2><column_3>Compact bow which inflicts Slow Down on enemies.</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2200020</column_1><column_2>War Bow</column_2><column_3>Immense bow which inflicts Confusion on enemies, making them more vulnerable to Impact.</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2200030</column_1><column_2>Horror Bow</column_2><column_3>Bow made from Shell Horror chitin which inflicts Extreme Poison on enemies.</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2200040</column_1><column_2>Coralhorn Bow</column_2><column_3>Bow which inflicts Pain, cursing the enemy to receive more physical damage, made from Coralhorn Antler.</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>2300000</column_1><column_2>Round Shield</column_2><column_3>Basic shield of wood and iron.
+    <ooo_row><column_1>2140110</column_1><column_2>ツァーリのハルバード</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2140120</column_1><column_2>夢追いのハルバード</column_2><column_3>“夕暮れを作りし者の知恵は万能である。劣りし者でさえも我らの教えを学ぶことができる。”</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2150000</column_1><column_2>学者の杖</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2150001</column_1><column_2>メイジの指示棒</column_2><column_3>“この棒を使ったメイジは火、影、そして時間さえも巧みに操る魔法に長けていた。”</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2150010</column_1><column_2>ジェイトリッチの杖</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2150030</column_1><column_2>コンパスウッドスタッフ</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2150031</column_1><column_2>腐敗木の杖</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2150040</column_1><column_2>隠者の杖</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2150050</column_1><column_2>達人の杖</column_2><column_3></column_3><column_4>MISSING DESC</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2200000</column_1><column_2>簡単な弓</column_2><column_3>力が弱いため、ほぼ小規模な狩りにだけ使われる初心者の短弓。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2200010</column_1><column_2>リカーブボウ</column_2><column_3>敵の動きを鈍くする小型の弓。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2200020</column_1><column_2>戦弓</column_2><column_3>敵を混乱させ、大きな衝撃を与える巨大な弓。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2200030</column_1><column_2>恐ろしい弓</column_2><column_3>敵に猛毒をかける、恐ろしい貝殻から出来た弓。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2200040</column_1><column_2>コーラルホーンボウ</column_2><column_3>コーラルホーンの枝角で出来た弓で、敵に痛みを与え、物理ダメージを増やす呪いをかける。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>2300000</column_1><column_2>円盾</column_2><column_3>木や鉄でできた基本的な盾。
 
 
 
-Blocking with a shield is more advantageous than blocking with a weapon.</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
+盾は武器よりも有効に防御できる。</column_3><column_4>OK</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>2300030</column_1><column_2>Zhorn’s Demon Shield</column_2><column_3>An unusual possession of the ancient great hunter.
 
 
