@@ -328,8 +328,9 @@ Otherwise,survivalcraftingisusedtomakeessentialsitemssuchasMakeshiftTorches,ifon
     <ooo_row><column_1>SkillTree_Name_Mercenary</column_1><column_2>傭兵</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>SkillTree_Name_Monk</column_1><column_2>僧兵</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>SkillTree_Name_Philosopher</column_1><column_2>哲学者</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>SkillTree_Name_Rogue</column_1><column_2>ローーグ・エンジニア</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>SkillTree_Name_Rogue</column_1><column_2>ローグ・エンジニア</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>SkillTree_Name_Sage</column_1><column_2>ルーンセージ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Sleep_Title_OtherPlayer</column_1><column_2>{1} wants to sleep for {2} hours, 睡眠をとりますか?</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Sleep_Title_LocalPlayer</column_1><column_2>どれくらい睡眠をとりますか？</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>    <ooo_row><column_1>Sleep_Title_OtherPlayer</column_1><column_2>{1}wantstosleepfor{2}hours,睡眠をとりますか?</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Sleep_Title_Waiting</column_1><column_2>待っている....</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Sleep_VoteStatus_NotInBed</column_1><column_2>ベッドがありません</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -365,8 +366,8 @@ Otherwise,survivalcraftingisusedtomakeessentialsitemssuchasMakeshiftTorches,ifon
     <ooo_row><column_1>Loading_Area</column_1><column_2>ローディングエリア</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Loading_Characters</column_1><column_2>ローディングキャラクター</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Loading_Items</column_1><column_2>ローディングアイテム</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Loading_PlayerSpawn</column_1><column_2>PositioningPlayers</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Connection_Preparation_Joining</column_1><column_2>参加ちゅう...</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Loading_PlayerSpawn</column_1><column_2>Positioning Players</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Connection_Preparation_Joining</column_1><column_2>参加中...</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Connection_Preparation_Saving</column_1><column_2>保存中...</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Connection_Preparation_ReloadingWorld</column_1><column_2>ワールドを再読み込み...</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Connection_Error_ConnectionWithHostLost</column_1><column_2>ホストとの接続を失った</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
