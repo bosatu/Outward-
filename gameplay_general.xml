@@ -2,83 +2,83 @@
 <ooo_calc_export scriptVersion="2.2.0_qdxml" scriptUpdate="2011-03-02" scriptURL="http://www.digitalimprint.com/misc/oooexport/" scriptAuthor="vjl">
   <ooo_sheet num="1">
     <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Bandit_Desert_Archer</column_1><column_2>デザートアーチャーArcher</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Bandit_Desert_Basic</column_1><column_2>デザートバンディットBandit</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Bandit_Desert_Captain</column_1><column_2>デザートキャプテンCaptain</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Bandit_Desert_Lieutenant</column_1><column_2>デザートルナテンLieutenant</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Bandit_Kazite_Archer</column_1><column_2>カザイトアーチャーArcher</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Bandit_Kazite_Basic</column_1><column_2>カザイトバンディットBandit</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Bandit_Kazite_Captain</column_1><column_2>カザイトキャプテンCaptain</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Bandit_Kazite_Lieutenant</column_1><column_2>カザイトルナテンLieutenant</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Bandit_Marsh_Archer</column_1><column_2>マーシュアーチャーArcher</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Bandit_Marsh_Basic</column_1><column_2>マーシュバンディットBandit</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Bandit_Marsh_Captain</column_1><column_2>マーシュキャプテンCaptain</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Bandit_Marsh_CaptainArcher</column_1><column_2>マーシュアーチャーキャプテンCaptain</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Bandit_Standard_Archer</column_1><column_2>アーチャーArcher</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Bandit_Standard_Basic</column_1><column_2>バンディットBandit</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Bandit_Standard_Captain</column_1><column_2>キャプテンズキャビンCaptain</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Bandit_Standard_Defense</column_1><column_2>ディフェンダーDefender</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Bandit_Standard_Lieutenant</column_1><column_2>ルナテンLieutenant</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Bandit_Standard_ManhunterArcher</column_1><column_2>マンハンターManhunter</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Bandit_VendavelWitch</column_1><column_2>ベンダベルウィッチWitch</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Bandit_IceWitch</column_1><column_2>アイスウィッチWitch</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Bandit_Acolyte</column_1><column_2>ジェイドリッチアコライトJAcolyte</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Giant_Guard</column_1><column_2>アッシュジャイアントGiant</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Giant_Plate</column_1><column_2>アッシュジャイアントエリートElite</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Giant_Priest</column_1><column_2>アッシュジャイアントプリーストAshPriest</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Golem_Basic</column_1><column_2>ソードゴーレムSworGolem</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Golem_Beast</column_1><column_2>ビーストゴーレムBeasGolem</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Golem_Forge</column_1><column_2>フォージゴーレムForgGolem</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Golem_ForgeRedHot</column_1><column_2>モルテンフォージゴーレムGolem</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Horror_Illuminator</column_1><column_2>イルミネーター・ホラーHorror</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Horror_Immaculate</column_1><column_2>ピュア・ホラーImmaculate</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Horror_Shell</column_1><column_2>シェル・ホラーSheHorror</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Troglodyte_Armored</column_1><column_2>アーマード・トログロダイトTroglodyte</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Troglodyte_Basic</column_1><column_2>トログロダイトTroglodyte</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Troglodyte_Grenadier</column_1><column_2>トログロダイト・グレネーダーGrenadier</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Troglodyte_Mana</column_1><column_2>トログロダイト・マナTroglodyte</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Troglodyte_Metal</column_1><column_2>トログロダイト・ナイトKnight</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Troglodyte_Shaman</column_1><column_2>シャーマン・トログロディエTroglodyte</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Undead_BurningMan</column_1><column_2>バーニングマンMan</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Undead_Ghost</column_1><column_2>ゴーストGhost</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Undead_Hivelord</column_1><column_2>ハイブロードLord</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Undead_LichGold</column_1><column_2>ゴールドリッチLich</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Undead_LichGoldMinion</column_1><column_2>ゴールデンミニオンMinion</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Undead_LichJade</column_1><column_2>ジェイドリッチLich</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Undead_SpecterMelee</column_1><column_2>ゴールデンスペクターSpecter</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Undead_SpecterRange</column_1><column_2>ゴールデンスペクターSpecter</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Undead_WalkingHive</column_1><column_2>ウォーキングハイブHive</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Wildlife_BladeDancer</column_1><column_2>ブレードダンサーDancer</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Wildlife_Bug_Assassin</column_1><column_2>アサシンバグBug</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Wildlife_Bug_Beetle</column_1><column_2>カブトムシBeetle</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Wildlife_Bug_Mantis</column_1><column_2>ロックマンティスMantis</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Wildlife_Bug_MantisMana</column_1><column_2>マナマンティスMantis</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Wildlife_CrescentShark</column_1><column_2>クレセントシャークShark</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Wildlife_Deer</column_1><column_2>コーラルホーンCoralhorn</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Wildlife_DeerAlpha</column_1><column_2>アルファコーラルホーンCoralhorn</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Wildlife_Hound</column_1><column_2>ハウンドHyena</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Wildlife_HoundArmored</column_1><column_2>アーマード・ハウンドHyena</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Wildlife_JewelBird</column_1><column_2>ジュエルバードJewelbird</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Wildlife_Manticore</column_1><column_2>マンティコアManticore</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Wildlife_ObsidianElemental</column_1><column_2>オブシディアンエレメンタルElemental</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Wildlife_PearlBird</column_1><column_2>パールバードPearlbird</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Wildlife_Phytoflora</column_1><column_2>フィトフローラPhytoflora</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Wildlife_Phytosaur</column_1><column_2>ファイトサウルスPhytosaur</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Wildlife_Shrimp</column_1><column_2>マンティスエビShrimp</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Wildlife_Steko</column_1><column_2>ステコサウルスStekosaur</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Wildlife_Tuanosaur</column_1><column_2>ティタノサウルスTuanosaur</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Wildlife_TuanosaurAlpha</column_1><column_2>ティタノサウルス・アルファTuanosaur</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Wildlife_Wendigo</column_1><column_2>ウェンディゴWendigo</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Undead_Skeleton</column_1><column_2>スケルトンSkeleton</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Undead_Skeleton2</column_1><column_2>マッドキャプテンスケルトンBones</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Wildlife_PearlBird2</column_1><column_2>パールバードカットスロートCutthroat</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Wildlife_Manticore2</column_1><column_2>ロイヤルマンティコアManticore</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Undead_Hivelord2</column_1><column_2>ハイブロードHive</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Golem_Basic2</column_1><column_2>コンパスガーディアンGuaCompass</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Bandit_Standard_Captain2</column_1><column_2>真珠のようなルークPearlescent</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Wildlife_Wendigo2</column_1><column_2>ファーストウェンディゴCannibal</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Undead_GhostVanasse</column_1><column_2>ゴーストオブバナスVanasse</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Horror_Immaculate2</column_1><column_2>ブッチャーMen</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Desert_Archer</column_1><column_2>デザートアーチャー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Desert_Basic</column_1><column_2>デザートバンディット</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Desert_Captain</column_1><column_2>デザートキャプテン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Desert_Lieutenant</column_1><column_2>デザートルナテン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Kazite_Archer</column_1><column_2>カザイトアーチャー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Kazite_Basic</column_1><column_2>カザイトバンディット</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Kazite_Captain</column_1><column_2>カザイトキャプテンC</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Kazite_Lieutenant</column_1><column_2>カザイトルナテン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Marsh_Archer</column_1><column_2>マーシュアーチャーr</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Marsh_Basic</column_1><column_2>マーシュバンディット</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Marsh_Captain</column_1><column_2>マーシュキャプテン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Marsh_CaptainArcher</column_1><column_2>マーシュアーチャーキャプテン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Standard_Archer</column_1><column_2>アーチャー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Standard_Basic</column_1><column_2>バンディット</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Standard_Captain</column_1><column_2>キャプテンズキャビン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Standard_Defense</column_1><column_2>ディフェンダー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Standard_Lieutenant</column_1><column_2>ルナテン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Standard_ManhunterArcher</column_1><column_2>マンハンター</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_VendavelWitch</column_1><column_2>ベンダベルウィッチ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_IceWitch</column_1><column_2>アイスウィッチ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Acolyte</column_1><column_2>ジェイドリッチアコライト</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Giant_Guard</column_1><column_2>アッシュジャイアント</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Giant_Plate</column_1><column_2>アッシュジャイアントエリート</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Giant_Priest</column_1><column_2>アッシュジャイアントプリースト</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Golem_Basic</column_1><column_2>ソードゴーレム</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Golem_Beast</column_1><column_2>ビーストゴーレム</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Golem_Forge</column_1><column_2>フォージゴーレム</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Golem_ForgeRedHot</column_1><column_2>モルテンフォージゴーレム</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Horror_Illuminator</column_1><column_2>イルミネーター・ホラー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Horror_Immaculate</column_1><column_2>ピュア・ホラー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Horror_Shell</column_1><column_2>シェル・ホラー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Troglodyte_Armored</column_1><column_2>アーマード・トログロダイト</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Troglodyte_Basic</column_1><column_2>トログロダイト</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Troglodyte_Grenadier</column_1><column_2>トログロダイト・グレネーダー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Troglodyte_Mana</column_1><column_2>トログロダイト・マナ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Troglodyte_Metal</column_1><column_2>トログロダイト・ナイト</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Troglodyte_Shaman</column_1><column_2>シャーマン・トログロディエ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Undead_BurningMan</column_1><column_2>バーニングマン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Undead_Ghost</column_1><column_2>ゴースト</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Undead_Hivelord</column_1><column_2>ハイブロード</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Undead_LichGold</column_1><column_2>ゴールドリッチ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Undead_LichGoldMinion</column_1><column_2>ゴールデンミニオン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Undead_LichJade</column_1><column_2>ジェイドリッチ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Undead_SpecterMelee</column_1><column_2>ゴールデンスペクター</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Undead_SpecterRange</column_1><column_2>ゴールデンスペクター</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Undead_WalkingHive</column_1><column_2>ウォーキングハイブ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_BladeDancer</column_1><column_2>ブレードダンサー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Bug_Assassin</column_1><column_2>アサシンバグ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Bug_Beetle</column_1><column_2>カブトムシ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Bug_Mantis</column_1><column_2>ロックマンティス</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Bug_MantisMana</column_1><column_2>マナマンティス</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_CrescentShark</column_1><column_2>クレセントシャーク</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Deer</column_1><column_2>コーラルホーン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_DeerAlpha</column_1><column_2>アルファコーラルホーン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Hound</column_1><column_2>ハウンド</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_HoundArmored</column_1><column_2>アーマード・ハウンド</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_JewelBird</column_1><column_2>ジュエルバード</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Manticore</column_1><column_2>マンティコア</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_ObsidianElemental</column_1><column_2>オブシディアンエレメンタル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_PearlBird</column_1><column_2>パールバード</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Phytoflora</column_1><column_2>フィトフローラ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Phytosaur</column_1><column_2>ファイトサウルス</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Shrimp</column_1><column_2>マンティスエビ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Steko</column_1><column_2>ステコサウルス</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Tuanosaur</column_1><column_2>ティタノサウルス</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_TuanosaurAlpha</column_1><column_2>ティタノサウルス・アルファ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Wendigo</column_1><column_2>ウェンディゴ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Undead_Skeleton</column_1><column_2>スケルトン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Undead_Skeleton2</column_1><column_2>マッドキャプテンスケルトン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_PearlBird2</column_1><column_2>パールバードカットスロート</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Manticore2</column_1><column_2>ロイヤルマンティコア</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Undead_Hivelord2</column_1><column_2>ハイブロード</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Golem_Basic2</column_1><column_2>コンパスガーディアン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Standard_Captain2</column_1><column_2>真珠のようなルーク</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Wendigo2</column_1><column_2>ファーストウェンディゴ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Undead_GhostVanasse</column_1><column_2>ゴーストオブバナス</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Horror_Immaculate2</column_1><column_2>ブッチャー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
   </ooo_sheet>
   <ooo_sheet num="2">
     <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -523,28 +523,28 @@
   <ooo_sheet num="7">
     <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Trap_Incendiary</column_1><column_2>焼夷弾トラップ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Trap_Incendiary_Desc</column_1><column_2>中程度の炎ダメージを与え、燃える。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_Incendiary_Desc</column_1><column_2>中程度の炎ダメージを与え、燃焼します。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Trap_IncendiaryImproved</column_1><column_2>改良された焼夷弾トラップ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Trap_IncendiaryImproved_Desc</column_1><column_2>高いFireダメージを与えてBurningを与えます。g.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_IncendiaryImproved_Desc</column_1><column_2>高いファイアダメージを与えて燃焼を与えます。g.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Trap_Shock</column_1><column_2>ショックトラップ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Trap_Shock_Desc</column_1><column_2>中程度のLightningダメージを与え、混乱を引き起こします。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_Shock_Desc</column_1><column_2>中程度のライトニングダメージを与え、混乱を引き起こします。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Trap_Toxic</column_1><column_2>有毒トラップ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Trap_Toxic_Desc</column_1><column_2>適度なディケイダメージを与え、毒を与えます。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_Toxic_Desc</column_1><column_2>適度な毒ダメージを与え、毒を与えます。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Trap_ToxicImproved</column_1><column_2>改善された毒性トラップ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Trap_ToxicImproved_Desc</column_1><column_2>高い崩壊ダメージを与え、SeverePoisonを与えます。son.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Trap_Gas</column_1><column_2>神経ガストラップ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Trap_Gas_Desc</column_1><column_2>強い衝撃でエーテルのダメージを与え、痛みを与えます。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Trap_Ethereal</column_1><column_2>エーテルトラップ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Trap_Ethereal_Desc</column_1><column_2>適度なEtherealダメージを与え、Hauntedを与えます。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_Ethereal_Desc</column_1><column_2>適度なエーテルダメージを与え、Hauntedを与えます。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Trap_Frost</column_1><column_2>フロストトラップ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Trap_Frost_Desc</column_1><column_2>高いFrostダメージを与え、SlowDownを与えます。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_Frost_Desc</column_1><column_2>高いフロストダメージを与え、鈍足を与えます。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Trap_Flash</column_1><column_2>フラッシュトラップ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Trap_Flash_Desc</column_1><column_2>インパクトのある中程度のLightningダメージを与える。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_Flash_Desc</column_1><column_2>インパクトのある中程度のライトニングダメージを与える。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Trap_Spike</column_1><column_2>スパイクトラップ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Trap_Spike_Desc</column_1><column_2>中程度の物理的ダメージを与えます。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Trap_Bleed</column_1><column_2>ブリードトラップ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_Bleed</column_1><column_2>出血トラップ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Trap_Bleed_Desc</column_1><column_2>物理的ダメージが少なく、出血が発生します。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Trap_Bludgeon</column_1><column_2>ブラッジトントラップ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_Bludgeon</column_1><column_2>コンフュトラップ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Trap_Bludgeon_Desc</column_1><column_2>低い物理的ダメージと高いインパクトを与え、混乱を引き起こします。ctsConfusion.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Trap_SpikeWeak</column_1><column_2>ウッドスパイクトラップ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Trap_SpikeWeak_Desc</column_1><column_2>物理的ダメージは少ないが、木製のスパイクは木材から無料で手に入れることができる。craftedforfreeoutofWood.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
