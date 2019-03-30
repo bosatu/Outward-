@@ -52,8 +52,8 @@
     <ooo_row><column_1>CharacterStatus_Tab_StatusEffect</column_1><column_2>ステータス効果</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CharSelection_SelectCharacter</column_1><column_2>キャラクター選択</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CharSelection_SelectSave</column_1><column_2>セーブを選択</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CraftingMenu_AnyIngredient</column_1><column_2>Any{1}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CraftingMenu_AnyIngredientGeneric</column_1><column_2>AnyIngredient</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CraftingMenu_AnyIngredient</column_1><column_2>いくつかの{1}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CraftingMenu_AnyIngredientGeneric</column_1><column_2>材料</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CraftingMenu_FreeRecipe</column_1><column_2>マニュアルレシピ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CraftingMenu_FreeRecipe_Alchemy</column_1><column_2>マニュアルレシピは、レシピを知らないポーションを作るために使用されます。
 
@@ -118,7 +118,7 @@ Otherwise,survivalcraftingisusedtomakeessentialsitemssuchasMakeshiftTorches,ifon
     <ooo_row><column_1>General_FindGame</column_1><column_2>ゲームを検索</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>General_GoOffline</column_1><column_2>オンラインプレイを中断</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>General_Help</column_1><column_2>ヘルプ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Hold</column_1><column_2>ホールド</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Hold</column_1><column_2>長押し</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>General_Hour</column_1><column_2>時間</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>General_Hours</column_1><column_2>時間(s)</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>General_Item</column_1><column_2>アイテム</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -141,7 +141,7 @@ Otherwise,survivalcraftingisusedtomakeessentialsitemssuchasMakeshiftTorches,ifon
     <ooo_row><column_1>General_Skill</column_1><column_2>スキル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>General_StartResting</column_1><column_2>休息をとる</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>General_StartSplit</column_1><column_2>分割開始</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>General_Stash</column_1><column_2>スタッシュ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>General_Stash</column_1><column_2>箱</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>General_StopSplit</column_1><column_2>分割停止</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>General_Take</column_1><column_2>取る</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>General_TakeAll</column_1><column_2>全て回収</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -171,7 +171,7 @@ Otherwise,survivalcraftingisusedtomakeessentialsitemssuchasMakeshiftTorches,ifon
     <ooo_row><column_1>Inventory_Section_Backpack</column_1><column_2>バッグ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Inventory_Section_BackpackContent</column_1><column_2>バッグの中身</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Inventory_Section_Boots</column_1><column_2>ブーツ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Inventory_Section_Deployables</column_1><column_2>Deployables</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Inventory_Section_Deployables</column_1><column_2>設置品</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Inventory_Section_Helmet</column_1><column_2>ヘルム</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Inventory_Section_Ingredients</column_1><column_2>材料</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Inventory_Section_MainHand</column_1><column_2>利き腕</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -180,7 +180,7 @@ Otherwise,survivalcraftingisusedtomakeessentialsitemssuchasMakeshiftTorches,ifon
     <ooo_row><column_1>Inventory_Section_Quiver</column_1><column_2>矢筒</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Inventory_Section_Usables</column_1><column_2>消耗品</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Inventory_Section_Weapons</column_1><column_2>携行品</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Inventory_Title</column_1><column_2>インベントリー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Inventory_Title</column_1><column_2>所持品</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_AttackSpeed</column_1><column_2>攻撃速度</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_Capacity</column_1><column_2>容量</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_ColdProtection</column_1><column_2>低温耐性</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -300,7 +300,7 @@ Otherwise,survivalcraftingisusedtomakeessentialsitemssuchasMakeshiftTorches,ifon
     <ooo_row><column_1>Rest_Description_Guard</column_1><column_2>警戒時間を増やせば、休息時の待ち伏せの可能性が減少します。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Rest_Description_GuardSafeZone</column_1><column_2>この場所は安全です。待ち伏せされることを恐れずに休むことができます。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Rest_Description_Repair</column_1><column_2>修理すると装備品の耐久が回復します。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Rest_Description_Sleep</column_1><column_2>睡眠は疲れ、健康、スタミナを癒しますが、マナを減少させます。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rest_Description_Sleep</column_1><column_2>睡眠は疲れ、ヘルス、スタミナを癒しますが、マナを減少させます。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Rest_Guard_Resume</column_1><column_2>&lt;color=#EA9B31&gt;{1}%&lt;/color&gt;</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Rest_PosRestNeedOverview</column_1><column_2>必要</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Rest_Repair_AfterRestDurability</column_1><column_2>休息後の装備の耐久力</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -309,7 +309,7 @@ Otherwise,survivalcraftingisusedtomakeessentialsitemssuchasMakeshiftTorches,ifon
     <ooo_row><column_1>Rest_Sleep_Current_Status</column_1><column_2>現在の疲労状況{1}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Rest_Sleep_Fully_Recovered</column_1><column_2>完全に回復するには{1}が必要です。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Rest_Sleep_Resume</column_1><column_2>ステータス状況:疲労:{1}渇き:{2}空腹:{3}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Rest_Title_Guard</column_1><column_2>ガード</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rest_Title_Guard</column_1><column_2>警戒</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Rest_Title_Repair</column_1><column_2>修理</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Rest_Title_Resting</column_1><column_2>休息</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Rest_Title_SafeZone</column_1><column_2>安全地帯</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -317,7 +317,7 @@ Otherwise,survivalcraftingisusedtomakeessentialsitemssuchasMakeshiftTorches,ifon
     <ooo_row><column_1>Rest_TotalRepair</column_1><column_2>全て修理:</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ShopMenu_BuyCartInfo</column_1><column_2>購入する</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ShopMenu_MerchantInventory</column_1><column_2>商人の在庫k</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ShopMenu_PlayerInventoryTitle</column_1><column_2>{1}のインベントリー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ShopMenu_PlayerInventoryTitle</column_1><column_2>{1}の所持品</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ShopMenu_SellCartInfo</column_1><column_2>販売する</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>SkillMenu_ActiveSkill</column_1><column_2>アクティブスキル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>SkillMenu_PassiveSkill</column_1><column_2>パッシブスキル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -468,7 +468,7 @@ Onemustmanuallyrefilltheirquiverbetweenfightssoasnottorunoutofarrowsduringbattle
     <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Notification_Bag_CannotUnequip</column_1><column_2>{1}を外す前に空にする必要がありますが、破棄することはできます。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Notification_Crafting_AtLeastOneIngredient</column_1><column_2>最低でも一つの材料が作成を開始するために必要とされます。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Notification_Crafting_MissingIngredient</column_1><column_2>いくつかの材料がありません。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Notification_Crafting_MissingIngredient</column_1><column_2>材料がたりません。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Notification_Crafting_WasteCleanWater</column_1><column_2>奇麗な水を煮沸する必要はありません。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Notification_Crafting_InvalidCombination</column_1><column_2>無効な組み合わせ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Notification_Crafting_InvalidCombinationWaste</column_1><column_2>無効な組み合わせ。材料が失われました。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -722,69 +722,69 @@ Weaponskillsrequirement:notboon</column_4><column_5></column_5><column_6></colum
     <ooo_row><column_1>Context_Item_Drop</column_1><column_2>捨てる</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Context_Item_Take</column_1><column_2>取る</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Context_Equipment_Switch</column_1><column_2>装備を変更</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Context_Equipment_UnequipBag</column_1><column_2>未装備（バッグに）</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Context_Equipment_UnequipPocket</column_1><column_2>                          未装備（ポケットへ）</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Context_Item_AssignToQuickSlot</column_1><column_2>                         クイックスロットに割り当てる</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Context_Item_Equip</column_1><column_2>             装備する</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Context_Item_Unequip</column_1><column_2>               未装備</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Context_Item_Use</column_1><column_2>           つかいます</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Context_Item_Read</column_1><column_2>            読む</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Context_Item_Fill</column_1><column_2>            {1}で埋めます</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Context_Item_Deploy</column_1><column_2>              展開する</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Context_Item_Empty</column_1><column_2>             空の</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Context_Item_Buy</column_1><column_2>           購入</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Context_Item_Sell</column_1><column_2>            売る</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Context_Item_Remove</column_1><column_2>              削除する</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Context_Item_ExploreStack</column_1><column_2>                    スタックを探る</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Context_Item_Light</column_1><column_2>             光</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Context_Item_PutOut</column_1><column_2>              出す</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Context_Map_Create</column_1><column_2>             作成する</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Context_Map_Edit</column_1><column_2>           編集する</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Context_Item_FreeQuickSlot</column_1><column_2>                     無料クイックスロット</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Context_Item_LanternAttach</column_1><column_2>                     この提灯をつける</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Context_Equipment_UnequipBag</column_1><column_2>未装備（バッグ）</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Context_Equipment_UnequipPocket</column_1><column_2>未装備（ポケット）</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Context_Item_AssignToQuickSlot</column_1><column_2>クイックスロット</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Context_Item_Equip</column_1><column_2>装備する</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Context_Item_Unequip</column_1><column_2>装備をはずす</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Context_Item_Use</column_1><column_2>使用</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Context_Item_Read</column_1><column_2>読む</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Context_Item_Fill</column_1><column_2>{1}を注ぐ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Context_Item_Deploy</column_1><column_2>展開</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Context_Item_Empty</column_1><column_2>空</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Context_Item_Buy</column_1><column_2>購入</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Context_Item_Sell</column_1><column_2>販売</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Context_Item_Remove</column_1><column_2>削除</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Context_Item_ExploreStack</column_1><column_2>スタックを探る</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Context_Item_Light</column_1><column_2>着火</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Context_Item_PutOut</column_1><column_2>消す</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Context_Map_Create</column_1><column_2>作成</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Context_Map_Edit</column_1><column_2>編集</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Context_Item_FreeQuickSlot</column_1><column_2>フリークイックスロット</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Context_Item_LanternAttach</column_1><column_2>ランタンを設置</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
   </ooo_sheet>
   <ooo_sheet num="6">
     <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>GenericMessage_Warning_Title</column_1><column_2>エラー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>GenericMessage_Error_Title</column_1><column_2>チュートリアルを終了しますか？</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Tutorial_Leave_Message</column_1><column_2>チュートリアルを終了</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Tutorial_Leave_Title</column_1><column_2>あなたの名前は空にできません</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterCreation_EmptyName_Message</column_1><column_2>{1}文字を削除してよろしいですか？</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharSelection_DeleteSaveMessage</column_1><column_2>削除保存しますか？</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharSelection_DeleteSaveTitle</column_1><column_2>分割画面を停止しようとしています。続けたいですか？</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Tutorial_Leave_Title</column_1><column_2>名前は空白にできません</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterCreation_EmptyName_Message</column_1><column_2>{1}を削除してよろしいですか？</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharSelection_DeleteSaveMessage</column_1><column_2>削除を保存しますか？</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharSelection_DeleteSaveTitle</column_1><column_2>分割画面を停止しようとしています。続けますか？</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>SplitScreen_Stop_Message</column_1><column_2>分割画面を停止</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>SplitScreen_Stop_Title</column_1><column_2>一旦適用されると、これらの変更は永久的になります。続行しますか？</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>SplitScreen_Stop_Title</column_1><column_2>一旦適用されると、変更はできませんが続行しますか？</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ChannelingMenu_Confirm_Message</column_1><column_2>マナチャネリング</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ChannelingMenu_Confirm_Title</column_1><column_2>メインメニューに戻りますか？</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>BackToMainMenu_Message</column_1><column_2>メインメニューに戻る</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>BackToMainMenu_Title</column_1><column_2>デモを再開してもよろしいですか？</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Demo_Reset_Message</column_1><column_2>デモを再起動</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Demo_Reset_Title</column_1><column_2>あなたは未決の取引を持っています、あなたは本当にあなたが去りたいですか？</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BackToMainMenu_Title</column_1><column_2>再開しますか？</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Demo_Reset_Message</column_1><column_2>再起動</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Demo_Reset_Title</column_1><column_2>取引が済んでいませんが、立ち去りますか？</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Shop_Exit_Message</column_1><column_2>店を出る</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Shop_Exit_Title</column_1><column_2>{1}を購入</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>MessageBox_Stack_Buy</column_1><column_2>{1}をドロップ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>MessageBox_Stack_Buy</column_1><column_2>{1}を捨てる</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>MessageBox_Stack_Drop</column_1><column_2>{1}を{2}に移動</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>MessageBox_Stack_MoveTo</column_1><column_2>カートから{1}を削除</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>MessageBox_Stack_MoveTo</column_1><column_2>{1}を移動させる</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>MessageBox_Stack_RemoveCart</column_1><column_2>{1}を売る</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>MessageBox_Stack_Sell</column_1><column_2>{1}をください</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>MessageBox_Stack_Take</column_1><column_2>また、あなたは{1}を学ぶことができないでしょう。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>MessageBox_Stack_Take</column_1><column_2>あなたは{1}を学ぶことができません。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>MessageBox_Trainer_ConfirmLearnAlternative</column_1><column_2>あなたは{1}を学ぼうとしています。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>MessageBox_Trainer_ConfirmLearnBase</column_1><column_2>授業料は{1}銀です。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>MessageBox_Trainer_ConfirmLearnBase</column_1><column_2>授業料は{1}シルバーです。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>MessageBox_Trainer_ConfirmLearnFee</column_1><column_2>続行しますか？</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>MessageBox_Trainer_ConfirmProceed</column_1><column_2>デフォルトマッピングにリセットしようとしています。処理しますか？</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ControlRemapping_ResetWarning</column_1><column_2>チュートリアル中は他のゲームに参加できません。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>MessageBox_Network_JoinTutorial</column_1><column_2>分割画面モードでは、他のゲームに参加できません。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>MessageBox_Network_JoinSplitscreen</column_1><column_2>他のゲームに参加する前にキャラクターをロードする必要があります。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>MessageBox_Network_JoinNoCharacter</column_1><column_2>現時点では参加できません。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>MessageBox_Network_CannotJoinAtThisMoment</column_1><column_2>分割画面を有効にするには、追加のゲームパッドを接続します。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>MessageBox_Network_CannotJoinAtThisMoment</column_1><column_2>分割画面を有効にするには、追加のゲームパッドを接続してください。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>MessageBox_Split_NotEnoughControllers</column_1><column_2>設定が適用されました。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>MessageBox_Settings_Applied</column_1><column_2>接続エラー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>MessageBox_Network_ConnectionError</column_1><column_2>設定へのいくつかの変更は適用されていません。続行すると、これらの変更は破棄されます。続けたいですか？</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>MessageBox_Network_ConnectionError</column_1><column_2>設定の変更が適用されていません。続行すると変更は破棄されます。よろしいですか？</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>MessageBox_OptionsPending</column_1><column_2>プレーヤーのコントローラーを再接続してください。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>MessageBox_Controller_Reconnect</column_1><column_2>プレイヤーの1つのコントローラーを再接続してください。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>MessageBox_Controller_ReconnectP1</column_1><column_2>プレイヤーの2つのコントローラーを再接続してください。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>MessageBox_Controller_Reconnect</column_1><column_2>プレイヤー1のコントローラーを再接続してください。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>MessageBox_Controller_ReconnectP1</column_1><column_2>プレイヤー2のコントローラーを再接続してください。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>MessageBox_Controller_ReconnectP2</column_1><column_2>プライマリユーザーがサインアウトし、メインメニューに戻りました。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>MessageBox_SignOut_Player1</column_1><column_2>セカンダリユーザーがログアウトし、分割画面を終了します。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>MessageBox_SignOut_Player1</column_1><column_2>セカンダリユーザーがログアウトしました分割画面を終了します。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>MessageBox_SignOut_Player2</column_1><column_2>選択したユーザーは既にサインインしています。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>MessageBox_CharacterSelect_AlreadySignedIn</column_1><column_2>分割画面</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>MessageBox_SplitScreen_EndSplit</column_1><column_2>ゲームが完全にインストールされていません。しばらくお待ちください。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -793,13 +793,13 @@ Weaponskillsrequirement:notboon</column_4><column_5></column_5><column_6></colum
     <ooo_row><column_1>MessageBox_Photon_ExceptionOnConnect</column_1><column_2>クライアントまたはサーバーのセキュリティ設定で接続が許可されていません。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>MessageBox_Photon_SecurityExceptionOnConnect</column_1><column_2>接続がタイムアウトしました。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>MessageBox_Photon_TimeoutDisconnect</column_1><column_2>クライアントによるタイムアウト切断</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>MessageBox_Photon_DisconnectByClientTimeout</column_1><column_2>受信ループで例外が発生しました。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>MessageBox_Photon_InternalReceiveException</column_1><column_2>サーバーはこのクライアントをアクティブに切断しました。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>MessageBox_Photon_DisconnectByServer</column_1><column_2>サーバーによるタイムアウト切断</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>MessageBox_Photon_DisconnectByServerTimeout</column_1><column_2>サーバーはこのクライアントをアクティブに切断しました。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>MessageBox_Photon_DisconnectByServerLogic</column_1><column_2>サーバーはこのクライアントをアクティブに切断しました。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>MessageBox_Photon_DisconnectByClientTimeout</column_1><column_2>例外：受信ループが発生しました。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>MessageBox_Photon_InternalReceiveException</column_1><column_2>サーバーはこのクライアントを切断しました。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>MessageBox_Photon_DisconnectByServer</column_1><column_2>サーバータイムアウトによる切断</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>MessageBox_Photon_DisconnectByServerTimeout</column_1><column_2>サーバーから切断されました。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>MessageBox_Photon_DisconnectByServerLogic</column_1><column_2>サーバーから切断されました。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>MessageBox_Photon_DisconnectByServerUserLimit</column_1><column_2>何らかの例外により接続が閉じられました。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>MessageBox_Photon_Exception</column_1><column_2>アプリのサブスクリプションで特定の地域のサーバーを使用することが許可されていないため、PhotonCloudでの認証に失敗しました。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>MessageBox_Photon_Exception</column_1><column_2>サブスクリプションで特定の地域のサーバーを使用することが許可されていないため、PhotonCloudでの認証に失敗しました。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>MessageBox_Photon_InvalidRegion</column_1><column_2>アプリケーションのサブスクリプションの同時ユーザー制限に達したため、PhotonCloudでの承認に失敗しました。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>MessageBox_Photon_MaxCcuReached</column_1><column_2>PhotonCloudは送信されたAppIdを拒否しました。ダッシュボードをチェックして、使用するAppIdが完全で正しいことを確認してください。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>MessageBox_Photon_InvalidAuthentication</column_1><column_2>認証チケットが期限切れです。再度接続して対処してください。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -814,35 +814,35 @@ Weaponskillsrequirement:notboon</column_4><column_5></column_5><column_6></colum
   </ooo_sheet>
   <ooo_sheet num="7">
     <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_ArmorPenaltiesReduction_Desc</column_1><column_2>ヘビーアーマーによる移動、スタミナコスト、暑さのペナルティが減少</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_ArmorPenaltiesReduction_Name</column_1><column_2>装甲罰の軽減</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_ArmorPenaltiesReduction_Desc</column_1><column_2>ヘビーアーマーによるペナルティは移動、スタミナ、体温</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_ArmorPenaltiesReduction_Name</column_1><column_2>装甲ペナルティー軽減</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_AttackUp_Desc</column_1><column_2>武器の物理的ダメージ+[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_AttackUp_Name</column_1><column_2>物理的な攻撃</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_BagBurden_Desc</column_1><column_2>体重が増えるにつれて、徐々にあなたの動きの速度を遅くします。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_BagBurden_Name</column_1><column_2>バッグオーバーウェイト</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_BagBurden_Desc</column_1><column_2>体重が増えるにつれて、徐々に移動速度が遅くなります。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_BagBurden_Name</column_1><column_2>重量オーバー（バッグ）</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Bandages1_Desc</column_1><column_2>1秒あたりの[E1V1]Healthを回復する。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Bandages1_Name</column_1><column_2>包帯</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_BergSleepBuff_Desc</column_1><column_2>スタミナ行動コスト-[E3V1]％。耐エーテル性+[E4V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_BergSleepBuff_Desc</column_1><column_2>スタミナ消費-[E3V1]％。耐エーテル性+[E4V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_BergSleepBuff_Name</column_1><column_2>睡眠：ベルク</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Bleeding1_Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Bleeding1_Name</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_BleedingHex1_Desc</column_1><column_2>毎秒あなたの健康の[E1V1]％を失います。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_BleedingHex1_Desc</column_1><column_2>ヘルスの[E1V1]％を毎秒失います。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_BleedingHex1_Name</column_1><column_2>出血</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_BleedingHex2_Desc</column_1><column_2>毎秒あなたの健康の[E1V1]％を失います。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_BleedingHex2_Desc</column_1><column_2>ヘルスの[E1V1]％を毎秒失います。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_BleedingHex2_Name</column_1><column_2>極度の出血</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_BlessBoon_Desc</column_1><column_2>雷害と抵抗+[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_BlessBoon_Name</column_1><column_2>祝福された</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_BlessBoonAmplified_Desc</column_1><column_2>雷害と抵抗+[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_BlessBoon_Desc</column_1><column_2>ライトニングへの抵抗+[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_BlessBoon_Name</column_1><column_2>恩恵</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_BlessBoonAmplified_Desc</column_1><column_2>ライトニングへの抵抗+[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_BlessBoonAmplified_Name</column_1><column_2>ブレス増幅</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_BurnHex_Desc</column_1><column_2>火災による被害と抵抗力[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_BurnHex_Desc</column_1><column_2>ファイアーへの抵抗力[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_BurnHex_Name</column_1><column_2>燃やす</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Burning_Desc</column_1><column_2>毎秒[E1V1]射撃ダメージを受ける。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Burning_Name</column_1><column_2>燃焼</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_CamoTentSleepBuff_Desc</column_1><column_2>ステルス+[E1V1]％スタミナ行動コスト-[E3V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Burning_Name</column_1><column_2>バーニング</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_CamoTentSleepBuff_Desc</column_1><column_2>ステルス+[E1V1]％スタミナ消費-[E3V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_CamoTentSleepBuff_Name</column_1><column_2>睡眠：迷彩テント</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_ChillHex_Desc</column_1><column_2>凍害と抵抗力[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_ChillHex_Name</column_1><column_2>冷やす</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_CierzoSleepBuff_Desc</column_1><column_2>コールドウェザーデフ+[E3V1]スタミナ行動コスト-[E4V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_CierzoSleepBuff_Desc</column_1><column_2>コールドウェザーデフ+[E3V1]スタミナ消費-[E4V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_CierzoSleepBuff_Name</column_1><column_2>睡眠：Cierzo</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_ConfusionHex_Desc</column_1><column_2>耐衝撃性[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_ConfusionHex_Name</column_1><column_2>混乱</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -870,20 +870,20 @@ Weaponskillsrequirement:notboon</column_4><column_5></column_5><column_6></colum
     <ooo_row><column_1>StatusEffect_Disease_Indigestion_1_Name</column_1><column_2>病気：消化不良</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Disease_Indigestion_2_Desc</column_1><column_2>食べるときに嘔吐させる可能性が高く、食べ物の効果を無効にします。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Disease_Indigestion_2_Name</column_1><column_2>病気：急性消化不良</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Disease_Infection_1_Desc</column_1><column_2>1分あたりあなたの健康の3％を失います。食べると回復する[E2V1]％少ない食物。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Disease_Infection_1_Desc</column_1><column_2>1分あたりあなたのヘルスの3％を失います。食べると回復する[E2V1]％少ない食物。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Disease_Infection_1_Name</column_1><column_2>病気：感染症</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Disease_Infection_2_Desc</column_1><column_2>1分あたりあなたの健康の7％を失います。食べると回復する[E2V1]％少ない食物。</column_2><column_3></column_3><column_4>ReducesMaxHealthby[E1V1]%.Eatingrestores[E2V1]%lessfood.</column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Disease_Infection_2_Desc</column_1><column_2>1分あたりあなたのヘルスの7％を失います。食べると回復する[E2V1]％少ない食物。</column_2><column_3></column_3><column_4>ReducesMaxHealthby[E1V1]%.Eatingrestores[E2V1]%lessfood.</column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Disease_Infection_2_Name</column_1><column_2>病気：急性感染症</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Disease_Infection_3_Desc</column_1><column_2>1分あたりあなたの健康の10％を失います。食べると回復する[E2V1]％少ない食物。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Disease_Infection_3_Desc</column_1><column_2>1分あたりあなたのヘルスの10％を失います。食べると回復する[E2V1]％少ない食物。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Disease_Infection_3_Name</column_1><column_2>病気：極端な感染</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Disease_LifeDrain_1_Desc</column_1><column_2>この病気は結局あなたを殺すでしょう。[E1V1]最大ヘルス％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Disease_LifeDrain_1_Desc</column_1><column_2>病気は結局あなたを殺すでしょう。[E1V1]最大ヘルス％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Disease_LifeDrain_1_Name</column_1><column_2>病気：ライフドレイン1</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Disease_LifeDrain_2_Desc</column_1><column_2>この病気は結局あなたを殺すでしょう。[E1V1]最大ヘルス％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Disease_LifeDrain_3_Desc</column_1><column_2>この病気はすぐにあなたを殺すでしょう。[E1V1]最大ヘルス％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Disease_LifeDrain_2_Desc</column_1><column_2>病気は結局あなたを殺すでしょう。[E1V1]最大ヘルス％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Disease_LifeDrain_3_Desc</column_1><column_2>病気はすぐにあなたを殺すでしょう。[E1V1]最大ヘルス％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Disease_LifeDrain_2_Name</column_1><column_2>病気：ライフドレイン2</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Disease_LifeDrain_3_Name</column_1><column_2>病気：ライフドレイン3</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Dizzy_Desc</column_1><column_2>耐衝撃性[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Dizzy_Name</column_1><column_2>めまいがする</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Dizzy_Name</column_1><column_2>眩暈</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_DoomHex_Desc</column_1><column_2>雷害と抵抗[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_DoomHex_Name</column_1><column_2>運命</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Drunk_Desc</column_1><column_2>耐衝撃性[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -932,7 +932,7 @@ Weaponskillsrequirement:notboon</column_4><column_5></column_5><column_6></colum
     <ooo_row><column_1>StatusEffect_FoodWarm_Name</column_1><column_2>暖かい</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_ForceBubble_Desc</column_1><column_2>ダメージを受けないが、影響を受けやすい。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_ForceBubble_Name</column_1><column_2>力バブル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_FurTentSleepBuff_Desc</column_1><column_2>コールドウェザーデフ+[E1V1]スタミナ行動コスト-[E2V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_FurTentSleepBuff_Desc</column_1><column_2>コールドウェザーデフ+[E1V1]スタミナ消費-[E2V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_FurTentSleepBuff_Name</column_1><column_2>スリープ：ファーテント</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_GaberryWine_Desc</column_1><column_2>マナコスト[E1V1]％物理抵抗[E2V1]％。耐衝撃性[E3V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_GaberryWine_Name</column_1><column_2>ガバリーワイン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -943,15 +943,15 @@ Weaponskillsrequirement:notboon</column_4><column_5></column_5><column_6></colum
     <ooo_row><column_1>StatusEffect_HauntedHex_Desc</column_1><column_2>エーテル損傷と抵抗[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_HauntedHex_Name</column_1><column_2>お化け</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_HealthRecovery1_Desc</column_1><column_2>1秒あたりの[E1V1]Healthを回復する。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_HealthRecovery1_Name</column_1><column_2>健康回復1</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_HealthRecovery1_Name</column_1><column_2>ヘルス回復1</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_HealthRecovery2_Desc</column_1><column_2>1秒あたりの[E1V1]Healthを回復する。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_HealthRecovery2_Name</column_1><column_2>健康回復2</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_HealthRecovery2_Name</column_1><column_2>ヘルス回復2</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_HealthRecovery3_Desc</column_1><column_2>1秒あたりの[E1V1]Healthを回復する。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_HealthRecovery3_Name</column_1><column_2>健康回復3</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_HealthRecovery3_Name</column_1><column_2>ヘルス回復3</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_HealthRecovery4_Desc</column_1><column_2>1秒あたりの[E1V1]Healthを回復する。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_HealthRecovery4_Name</column_1><column_2>健康回復4</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_HealthRecovery4_Name</column_1><column_2>ヘルス回復4</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_HealthRecovery5_Desc</column_1><column_2>1秒あたりの[E1V1]Healthを回復する。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_HealthRecovery5_Name</column_1><column_2>健康回復5</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_HealthRecovery5_Name</column_1><column_2>ヘルス回復5</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Hunger2_Starving_Desc</column_1><column_2>最大ヘルスは3倍速く減少します。あなたが与えるダメージ：[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Hunger2_Starving_Name</column_1><column_2>ニーズ：非常に空腹</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Hunger3_Hungry_Desc</column_1><column_2>最大ヘルスは3倍速く減少します。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -962,9 +962,9 @@ Weaponskillsrequirement:notboon</column_4><column_5></column_5><column_6></colum
     <ooo_row><column_1>StatusEffect_ImmolatedHex_Name</column_1><column_2>イモラート</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_ImpactUp_Desc</column_1><column_2>武器の攻撃力+[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_ImpactUp_Name</column_1><column_2>インパクトアップ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_LevantSleepBuff_Desc</column_1><column_2>スタミナ行動コスト-[E3V1]％。暑さデフ+[E4V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_LevantSleepBuff_Desc</column_1><column_2>スタミナ消費-[E3V1]％。暑さデフ+[E4V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_LevantSleepBuff_Name</column_1><column_2>睡眠：レバント</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_LuxuryTentSleepBuff_Desc</column_1><column_2>スタミナ行動コスト-[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_LuxuryTentSleepBuff_Desc</column_1><column_2>スタミナ消費-[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_LuxuryTentSleepBuff_Name</column_1><column_2>スリープ：ラグジュアリーテント</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_ManaCostReduction_Desc</column_1><column_2>能力値[E1V1]％のマナ消費が減少します。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_ManaCostReduction_Name</column_1><column_2>マナコスト削減</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -984,7 +984,7 @@ Weaponskillsrequirement:notboon</column_4><column_5></column_5><column_6></colum
     <ooo_row><column_1>StatusEffect_MistBoon_Name</column_1><column_2>ミスト</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_MistBoonAmplified_Desc</column_1><column_2>エーテル損傷と抵抗+[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_MistBoonAmplified_Name</column_1><column_2>ミスト増幅</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_MonsoonSleepBuff_Desc</column_1><column_2>スタミナ行動コスト-[E3V1]％。耐衝撃性+[E4V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_MonsoonSleepBuff_Desc</column_1><column_2>スタミナ消費-[E3V1]％。耐衝撃性+[E4V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_MonsoonSleepBuff_Name</column_1><column_2>睡眠：モンスーン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_PainHex_Desc</column_1><column_2>物理抵抗[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_PainHex_Name</column_1><column_2>疼痛</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -1024,7 +1024,7 @@ Weaponskillsrequirement:notboon</column_4><column_5></column_5><column_6></colum
     <ooo_row><column_1>StatusEffect_StabilityUp_Name</column_1><column_2>耐衝撃性</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_StabilityUp2_Desc</column_1><column_2>耐衝撃性+[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_StabilityUp2_Name</column_1><column_2>安定性アップ2</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_StaminaCostReduction_Desc</column_1><column_2>スタミナ行動コスト-[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_StaminaCostReduction_Desc</column_1><column_2>スタミナ消費-[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_StaminaCostReduction_Name</column_1><column_2>スタミナコスト削減</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_StaminaRecovery1_Desc</column_1><column_2>1秒あたりに[E1V1]スタミナを回復する。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_StaminaRecovery1_Name</column_1><column_2>スタミナ回復1</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -1044,11 +1044,11 @@ Weaponskillsrequirement:notboon</column_4><column_5></column_5><column_6></colum
     <ooo_row><column_1>StatusEffect_Temperature2_Cold_Name</column_1><column_2>ニーズ：風邪</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Temperature3_VeryCold_Desc</column_1><column_2>風邪を引くことができます。移動速度[E2V1]％毎秒[E1V1]FrostDamageを取ります。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Temperature3_VeryCold_Name</column_1><column_2>ニーズ：とても寒い</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Temperature4_Hot_Desc</column_1><column_2>スタミナ行動コスト+[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Temperature4_Hot_Desc</column_1><column_2>スタミナ消費+[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Temperature4_Hot_Name</column_1><column_2>ニーズ：ホット</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Temperature5_VeryHot_Desc</column_1><column_2>耐衝撃性[E1V1]％。スタミナ行動コスト+[E2V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Temperature5_VeryHot_Desc</column_1><column_2>耐衝撃性[E1V1]％。スタミナ消費+[E2V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Temperature5_VeryHot_Name</column_1><column_2>ニーズ：とても暑い</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_TentSleepBuff_Desc</column_1><column_2>スタミナ行動コスト-[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_TentSleepBuff_Desc</column_1><column_2>スタミナ消費-[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_TentSleepBuff_Name</column_1><column_2>スリープ：シンプルテント</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Thirst2_Parched_Desc</column_1><column_2>あなたの最大スタミナは3倍速く減少します。あなたが与えるダメージ：[E2V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Thirst3_Thirsty_Name</column_1><column_2>ニーズ：のどが渇いて</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -1140,147 +1140,147 @@ Weaponskillsrequirement:notboon</column_4><column_5></column_5><column_6></colum
   </ooo_sheet>
   <ooo_sheet num="8">
     <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ActionCategory_Actions</column_1><column_2>行動</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ActionCategory_Camera</column_1><column_2>                カメラ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ActionCategory_QuickSlot</column_1><column_2>                   クイックスロット</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_Aim</column_1><column_2>          目的</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_Attack1</column_1><column_2>              攻撃</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_Attack2</column_1><column_2>              特別な攻撃</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_AutoRun</column_1><column_2>              オートラン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_Block</column_1><column_2>            ブロック</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_CameraHorizontal</column_1><column_2>                       カメラを右に移動</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_CameraHorizontalFull</column_1><column_2>                           カメラX軸</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_CameraHorizontalNeg</column_1><column_2>                          カメラを左に移動</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_CameraVertical</column_1><column_2>                     カメラを上に移動</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_CameraVerticalFull</column_1><column_2>                         カメラのY軸</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_CameraVerticalNeg</column_1><column_2>                        カメラを下に移動</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_CancelCharge</column_1><column_2>                   描画をキャンセル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_CancelDeploy</column_1><column_2>                   デプロイをキャンセル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_ChargeWeapon</column_1><column_2>                   シュートボウ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_ConfirmDeploy</column_1><column_2>                    デプロイを確認</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_Dodge</column_1><column_2>            かわす</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_DragCorpse</column_1><column_2>                 ドラッグ死体</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_HandleBag</column_1><column_2>                テイク/ドロップバッグ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_Interact</column_1><column_2>               対話する</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_LockHold</column_1><column_2>               ロック（保留）</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_LockToggle</column_1><column_2>                 ロック（切り替え）</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_MoveHorizontal</column_1><column_2>                     右に動く</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_MoveHorizontalFull</column_1><column_2>                         水平に移動</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_MoveHorizontalNeg</column_1><column_2>                        左に移動</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_MoveVertical</column_1><column_2>                   前進する</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_MoveVerticalFull</column_1><column_2>                       垂直に移動</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_MoveVerticalNeg</column_1><column_2>                      後方に移動</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_QS_Instant1</column_1><column_2>                  クイックスロット1</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_QS_Instant2</column_1><column_2>                  クイックスロット2</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_QS_Instant3</column_1><column_2>                  クイックスロット3</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_QS_Instant4</column_1><column_2>                  クイックスロット4</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_QS_Instant5</column_1><column_2>                  クイックスロット5</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_QS_Instant6</column_1><column_2>                  クイックスロット6</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_QS_Instant7</column_1><column_2>                  クイックスロット7</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_QS_Instant8</column_1><column_2>                  クイックスロット8</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_QuickSlot1</column_1><column_2>                 クイックスロット1</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_QuickSlot2</column_1><column_2>                 クイックスロット2</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_QuickSlot3</column_1><column_2>                 クイックスロット3</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_QuickSlot4</column_1><column_2>                 クイックスロット4</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_QuickSlotToggle1</column_1><column_2>                       クイックスロットグループ1</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_QuickSlotToggle2</column_1><column_2>                       クイックスロットグループ2</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_Sheathe</column_1><column_2>              シース</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_Sprint</column_1><column_2>             スプリント</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_Stealth</column_1><column_2>              しゃがむ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_SwitchTargetHorizontal</column_1><column_2>                             ターゲットを右に切り替える</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_SwitchTargetHorizontalFull</column_1><column_2>                                 ターゲットを水平に切り替える</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_SwitchTargetHorizontalNeg</column_1><column_2>                                ターゲットを左に切り替える</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_SwitchTargetVertical</column_1><column_2>                           ターゲット切り替え</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_SwitchTargetVerticalFull</column_1><column_2>                               ターゲットを垂直に切り替える</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_SwitchTargetVerticalNeg</column_1><column_2>                              ターゲットの切り替え</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_ToggleLights</column_1><column_2>                   トグルライト</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_DialogueNext</column_1><column_2>                   持続する</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_ToggleMap</column_1><column_2>                地図の表示/非表示</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_ToggleInventory</column_1><column_2>                      在庫メニュー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_ToggleSkillMenu</column_1><column_2>                      スキルメニュー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_ToggleQuestLog</column_1><column_2>                     ジャーナルメニュー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_ToggleStatus</column_1><column_2>                   キャラクターメニュー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_ToggleCrafting</column_1><column_2>                     製作メニュー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_ToggleEquipment</column_1><column_2>                      設備メニュー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_ToggleQuickSlot</column_1><column_2>                      クイックスロットメニュー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_ToggleChat</column_1><column_2>                 チャット</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ActionCategory_Actions</column_1><column_2>アクション</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ActionCategory_Camera</column_1><column_2>カメラ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ActionCategory_QuickSlot</column_1><column_2>クイックスロット</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_Aim</column_1><column_2>エイム</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_Attack1</column_1><column_2>攻撃</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_Attack2</column_1><column_2>特殊攻撃</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_AutoRun</column_1><column_2>オートラン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_Block</column_1><column_2>ブロック</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_CameraHorizontal</column_1><column_2>カメラを右に移動</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_CameraHorizontalFull</column_1><column_2>カメラX軸</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_CameraHorizontalNeg</column_1><column_2>カメラを左に移動</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_CameraVertical</column_1><column_2>カメラを上に移動</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_CameraVerticalFull</column_1><column_2>カメラのY軸</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_CameraVerticalNeg</column_1><column_2>カメラを下に移動</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_CancelCharge</column_1><column_2>描画をキャンセル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_CancelDeploy</column_1><column_2>デプロイをキャンセル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_ChargeWeapon</column_1><column_2>弓を撃つ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_ConfirmDeploy</column_1><column_2>展開を確認</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_Dodge</column_1><column_2>ドッジ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_DragCorpse</column_1><column_2>死体をつかむ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_HandleBag</column_1><column_2>バッグの装着</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_Interact</column_1><column_2>行動</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_LockHold</column_1><column_2>ロック（保留）</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_LockToggle</column_1><column_2>ロック（切り替え）</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_MoveHorizontal</column_1><column_2>右に移動</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_MoveHorizontalFull</column_1><column_2>水平に移動</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_MoveHorizontalNeg</column_1><column_2>左に移動</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_MoveVertical</column_1><column_2>前進</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_MoveVerticalFull</column_1><column_2>垂直移動</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_MoveVerticalNeg</column_1><column_2>後退</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_QS_Instant1</column_1><column_2>クイックスロット1</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_QS_Instant2</column_1><column_2>クイックスロット2</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_QS_Instant3</column_1><column_2>クイックスロット3</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_QS_Instant4</column_1><column_2>クイックスロット4</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_QS_Instant5</column_1><column_2>クイックスロット5</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_QS_Instant6</column_1><column_2>クイックスロット6</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_QS_Instant7</column_1><column_2>クイックスロット7</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_QS_Instant8</column_1><column_2>クイックスロット8</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_QuickSlot1</column_1><column_2>クイックスロット1</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_QuickSlot2</column_1><column_2>クイックスロット2</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_QuickSlot3</column_1><column_2>クイックスロット3</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_QuickSlot4</column_1><column_2>クイックスロット4</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_QuickSlotToggle1</column_1><column_2>クイックスロットグループ1</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_QuickSlotToggle2</column_1><column_2>クイックスロットグループ2</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_Sheathe</column_1><column_2>回転</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_Sprint</column_1><column_2>走る</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_Stealth</column_1><column_2>しゃがむ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_SwitchTargetHorizontal</column_1><column_2> ターゲットを右に切り替える</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_SwitchTargetHorizontalFull</column_1><column_2>ターゲットを水平に切り替える</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_SwitchTargetHorizontalNeg</column_1><column_2>ターゲットを左に切り替える</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_SwitchTargetVertical</column_1><column_2>ターゲット切り替え</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_SwitchTargetVerticalFull</column_1><column_2>ターゲットを垂直に切り替える</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_SwitchTargetVerticalNeg</column_1><column_2>ターゲットの切り替え</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_ToggleLights</column_1><column_2>トグルライト</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_DialogueNext</column_1><column_2>持続する</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_ToggleMap</column_1><column_2>地図の表示/非表示</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_ToggleInventory</column_1><column_2>所持品メニュー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_ToggleSkillMenu</column_1><column_2>スキルメニュー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_ToggleQuestLog</column_1><column_2>ジャーナルメニュー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_ToggleStatus</column_1><column_2>キャラクターメニュー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_ToggleCrafting</column_1><column_2>作成メニュー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_ToggleEquipment</column_1><column_2>設備メニュー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_ToggleQuickSlot</column_1><column_2>クイックスロットメニュー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_ToggleChat</column_1><column_2>チャット</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ActionCategory_Menu</column_1><column_2>メニュー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>InputAction_ToggleEffects</column_1><column_2>ステータス効果</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
   </ooo_sheet>
   <ooo_sheet num="9">
-    <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Space</column_1><column_2>スペース</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_LeftShift</column_1><column_2>                  左方移動</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_LeftControl</column_1><column_2>                    左コントロール</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_SysReq</column_1><column_2>               SysReq</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_ScrollLock</column_1><column_2>                   スクロールロック</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Pause</column_1><column_2>              一時停止</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Insert</column_1><column_2>               インサート</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Home</column_1><column_2>             ホーム</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_PageUp</column_1><column_2>               ページアップ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_PageDown</column_1><column_2>                 ページダウン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Delete</column_1><column_2>               削除する</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_End</column_1><column_2>            終わり</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Numlock</column_1><column_2>                ナムロック</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Keypad/</column_1><column_2>                キーパッド/</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Keypad*</column_1><column_2>                キーパッド*</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Keypad-</column_1><column_2>                キーパッド-</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Keypad+</column_1><column_2>                キーパッド+</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_KeypadEnter</column_1><column_2>                    キーパッド入力</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Keypad0</column_1><column_2>                キーパッド0</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Keypad1</column_1><column_2>                キーパッド1</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Keypad2</column_1><column_2>                キーパッド2</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Keypad3</column_1><column_2>                キーパッド3</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Keypad4</column_1><column_2>                キーパッド4</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Keypad5</column_1><column_2>                キーパッド5</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Keypad6</column_1><column_2>                キーパッド6</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Keypad7</column_1><column_2>                キーパッド7</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Keypad8</column_1><column_2>                キーパッド8</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Keypad9</column_1><column_2>                キーパッド9</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Keypad.</column_1><column_2>                キーパッド</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_LeftMouseButton</column_1><column_2>                        左マウスボタン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_RightMouseButton</column_1><column_2>                         右マウスボタン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_MouseButton3</column_1><column_2>                     マウスボタン3</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_RightControl</column_1><column_2>                     正しい管理</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_UpArrow</column_1><column_2>                上矢印</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_LeftArrow</column_1><column_2>                  左矢印</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_RightArrow</column_1><column_2>                   右矢印</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_DownArrow</column_1><column_2>                  下矢印</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Return</column_1><column_2>               戻る</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_RightShift</column_1><column_2>                   右シフト</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Backspace</column_1><column_2>                  バックスペース</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_BackQuote</column_1><column_2>                  バッククォート</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Shift+</column_1><column_2>               Shift+</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Tab</column_1><column_2>            タブ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_LeftAlt</column_1><column_2>                左Alt</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Alt+</column_1><column_2>             Alt+</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Ctrl+</column_1><column_2>              Ctrl+</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_LeftCommand</column_1><column_2>                    左のコマンド</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_RightCommand</column_1><column_2>                     正しいコマンド</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Menu</column_1><column_2>             メニュー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_AltCapsLock</column_1><column_2>                    キャップスロック</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Button</column_1><column_2>               ボタン{1}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_LeftStickX</column_1><column_2>                   左スティックX</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_LeftStickY</column_1><column_2>                   左スティックY</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Cross</column_1><column_2>              クロス</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Square</column_1><column_2>               平方</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Triangle</column_1><column_2>                 三角形</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Circle</column_1><column_2>               サークル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_R3</column_1><column_2>           R3</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_L3</column_1><column_2>           L3</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_D-PadUp</column_1><column_2>                Dパッドアップ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_D-PadDown</column_1><column_2>                  Dパッドダウン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_D-PadLeft</column_1><column_2>                  左方向パッド</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_D-PadRight</column_1><column_2>                   右パッド</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Options</column_1><column_2>                オプション</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_TouchpadButton</column_1><column_2>                       タッチパッドボタン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Share</column_1><column_2>              シェア</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Start</column_1><column_2>              開始</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_Back</column_1><column_2>             バック</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_LeftTrigger</column_1><column_2>                    左トリガー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_RightTrigger</column_1><column_2>                     右トリガー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_LeftShoulder</column_1><column_2>                     左肩</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Controller_Input_RightShoulder</column_1><column_2>                      右肩</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>loc_key</column_1><column_2>value</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Space</column_1><column_2>スペース</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_LeftShift</column_1><column_2>左へ移動</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_LeftControl</column_1><column_2>左コントロール</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_SysReq</column_1><column_2>               SysReq</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_ScrollLock</column_1><column_2>スクロールロック</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Pause</column_1><column_2>一時停止</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Insert</column_1><column_2>挿入</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Home</column_1><column_2>ホーム</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_PageUp</column_1><column_2>ページアップ</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_PageDown</column_1><column_2>ページダウン</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Delete</column_1><column_2>削除</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_End</column_1><column_2>終わり</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Numlock</column_1><column_2>ナムロック</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Keypad/</column_1><column_2>キーパッド/</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Keypad*</column_1><column_2>キーパッド*</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Keypad-</column_1><column_2>キーパッド-</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Keypad+</column_1><column_2>キーパッド+</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_KeypadEnter</column_1><column_2>キーパッド入力</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Keypad0</column_1><column_2>キーパッド0</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Keypad1</column_1><column_2>キーパッド1</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Keypad2</column_1><column_2>キーパッド2</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Keypad3</column_1><column_2>キーパッド3</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Keypad4</column_1><column_2>キーパッド4</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Keypad5</column_1><column_2>キーパッド5</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Keypad6</column_1><column_2>キーパッド6</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Keypad7</column_1><column_2>キーパッド7</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Keypad8</column_1><column_2>キーパッド8</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Keypad9</column_1><column_2>キーパッド9</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Keypad.</column_1><column_2>キーパッド</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_LeftMouseButton</column_1><column_2>左マウスボタン</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_RightMouseButton</column_1><column_2>右マウスボタン</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_MouseButton3</column_1><column_2>マウスボタン3</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_RightControl</column_1><column_2>正しい管理</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_UpArrow</column_1><column_2>上矢印</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_LeftArrow</column_1><column_2>左矢印</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_RightArrow</column_1><column_2>右矢印</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_DownArrow</column_1><column_2>下矢印</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Return</column_1><column_2>戻る</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_RightShift</column_1><column_2>右シフト</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Backspace</column_1><column_2>バックスペース</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_BackQuote</column_1><column_2>バッククォート</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Shift+</column_1><column_2>Shift+</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Tab</column_1><column_2>TAB</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_LeftAlt</column_1><column_2>左Alt</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Alt+</column_1><column_2>Alt+</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Ctrl+</column_1><column_2>Ctrl+</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_LeftCommand</column_1><column_2>左のコマンド</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_RightCommand</column_1><column_2>右のコマンド</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Menu</column_1><column_2>メニュー</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_AltCapsLock</column_1><column_2>Capsロック</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Button</column_1><column_2>ボタン{1}</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_LeftStickX</column_1><column_2>左スティックX</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_LeftStickY</column_1><column_2> 左スティックY</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Cross</column_1><column_2>十字</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Square</column_1><column_2>スクエア</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Triangle</column_1><column_2>トライアングル</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Circle</column_1><column_2>サークル</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_R3</column_1><column_2>R3</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_L3</column_1><column_2>L3</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_D-PadUp</column_1><column_2>Dパッドアップ</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_D-PadDown</column_1><column_2>Dパッドダウン</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_D-PadLeft</column_1><column_2>左方向パッド</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_D-PadRight</column_1><column_2>右方向パッド</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Options</column_1><column_2>オプション</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_TouchpadButton</column_1><column_2>タッチパッドボタン</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Share</column_1><column_2>シェア</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Start</column_1><column_2>開始</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_Back</column_1><column_2>バック</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_LeftTrigger</column_1><column_2>左トリガー</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_RightTrigger</column_1><column_2>右トリガー</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_LeftShoulder</column_1><column_2>左ショルダー</column_2></ooo_row>
+    <ooo_row><column_1>Controller_Input_RightShoulder</column_1><column_2>右ショルダー</column_2></ooo_row>
   </ooo_sheet>
   <ooo_sheet num="10">
     <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -2422,93 +2422,93 @@ AstridRosemarin
   </ooo_sheet>
   <ooo_sheet num="11">
     <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_FreshOfftheBoat_1_Desc</column_1><column_2>Startanewcharacter.</column_2><column_3>22</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_ThePowerofFamily_2_Desc</column_1><column_2>JointheBlueChamberfaction.</column_2><column_3>30</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_ThePowerofFreedom_3_Desc</column_1><column_2>JointheHeroicKingdomfaction.</column_2><column_3>32</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_ThePowerofFaith_4_Desc</column_1><column_2>JointheHolyMissionfaction.</column_2><column_3>30</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_Tearsoflight_5_Desc</column_1><column_2>CompletethefirstquestoftheHolyMission,whilekeepingtheLighthouse.</column_2><column_3>75</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_ACandleSnuffedout_6_Desc</column_1><column_2>CompletethesecondquestoftheHolyMission.</column_2><column_3>46</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_OriginStory_7_Desc</column_1><column_2>CompletethethirdquestoftheHolyMission.</column_2><column_3>45</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_ForAllAurai_8_Desc</column_1><column_2>CompletethefourthquestoftheHolyMission.</column_2><column_3>46</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_AceDetective_9_Desc</column_1><column_2>CompletetheparallelquestoftheHolyMission.</column_2><column_3>48</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_Damagecontrol_10_Desc</column_1><column_2>CompletethefirstquestoftheBlueChamber.</column_2><column_3>45</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_SayHellotomyBigFriend_11_Desc</column_1><column_2>CompletethesecondquestoftheBlueChamber.</column_2><column_3>46</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_LaidtoRest_12_Desc</column_1><column_2>CompletethethirdquestoftheBlueChamber.</column_2><column_3>45</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_AncestorsPride_13_Desc</column_1><column_2>CompletethefourthquestoftheBlueChamber.</column_2><column_3>46</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_AFortressToppled_14_Desc</column_1><column_2>CompletetheparallelquestoftheBlueChamber.</column_2><column_3>48</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_InsideJob_15_Desc</column_1><column_2>CompletethefirstquestoftheHeroicKingdom.</column_2><column_3>47</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_DesertJustice_16_Desc</column_1><column_2>CompletethesecondquestoftheHeroicKingdom.</column_2><column_3>48</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_FoodfortheHungry_17_Desc</column_1><column_2>CompletethethirdquestoftheHeroicKingdom.</column_2><column_3>47</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_LightofLevant_18_Desc</column_1><column_2>CompletethefourthquestoftheHeroicKingdom.</column_2><column_3>48</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_HouseofCards_19_Desc</column_1><column_2>CompletetheparallelquestoftheHeroicKingdom.</column_2><column_3>50</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_MasterofAurai_20_Desc</column_1><column_2>Finishall3questlines.</column_2><column_3>25</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_VentureOutward_21_Desc</column_1><column_2>LeaveCierzo.</column_2><column_3>13</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_Tapped_22_Desc</column_1><column_2>GainManafromtheConfluxMountain.</column_2><column_3>36</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_Eureka_23_Desc</column_1><column_2>UseaBreakthroughPoint.</column_2><column_3>25</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_ExceptionalSkill_24_Desc</column_1><column_2>LearnalltheskillsandpassivesyoucanfromoneSkillTree.</column_2><column_3>62</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_HomeSweetHome_25_Desc</column_1><column_2>Purchaseahouseinoneofthecities.</column_2><column_3>38</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_ScourgeSlayer_26_Desc</column_1><column_2>KillaShellHorror.</column_2><column_3>20</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_ApexPredator_27_Desc</column_1><column_2>KillaManticore.</column_2><column_3>17</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_CordonBleu_28_Desc</column_1><column_2>Craftacookingrecipewith4ingredients.</column_2><column_3>42</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_ScienceTroglodyte_29_Desc</column_1><column_2>Craftanalchemyrecipewith4ingredients.</column_2><column_3>43</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_Encyclopedic_30_Desc</column_1><column_2>Learn50newrecipes.</column_2><column_3>21</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_PerfectDefense_31_Desc</column_1><column_2>EquipanentiresetofTsarArmor.</column_2><column_3>34</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_NeverSawitComing_32_Desc</column_1><column_2>CraftaTripwireTrap.</column_2><column_3>22</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_CanadianHotel_33_Desc</column_1><column_2>Campoutsidewhileitsnows.</column_2><column_3>28</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_GiftfromtheAncestors_34_Desc</column_1><column_2>RecoveranitemyoustoredinaLegacyChest.</column_2><column_3>45</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_TheyllTellStoriesAboutThis_35_Desc</column_1><column_2>Finishaquestlinewithouteverbeingdefeated.</column_2><column_3>48</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_HookLineandHarpoon_36_Desc</column_1><column_2>UseaFishingHarpoontofish.</column_2><column_3>30</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_Motherlode_37_Desc</column_1><column_2>Findagemwhileminingore.</column_2><column_3>28</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_PutitOut_38_Desc</column_1><column_2>UsetheThrowLanternskill5times.</column_2><column_3>36</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_TakemyHand_39_Desc</column_1><column_2>Reanimateanotherplayer.</column_2><column_3>25</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_CircleofLife_40_Desc</column_1><column_2>ObtainFireflyPowderfromthesource.</column_2><column_3>38</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_ReadyforSummer_41_Desc</column_1><column_2>Reach20HotWeatherDef.</column_2><column_3>25</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_ReadyforWinter_42_Desc</column_1><column_2>Reach20ColdWeatherDef.</column_2><column_3>26</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_HoldmyMeadandWatchThis_43_Desc</column_1><column_2>Haveeachboonactiveonyouatthesametime.</column_2><column_3>46</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_BonesOfMyEnemy_44_Desc</column_1><column_2>CraftaManticoreGreatmace,HorrorBow,HorrorAxeorHorrorShield</column_2><column_3>68</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_FreshOfftheBoat_1_Name</column_1><column_2>FreshOfftheBoat</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_ThePowerofFamily_2_Name</column_1><column_2>ThePowerofFamily</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_ThePowerofFreedom_3_Name</column_1><column_2>ThePowerofFreedom</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_ThePowerofFaith_4_Name</column_1><column_2>ThePowerofFaith</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_Tearsoflight_5_Name</column_1><column_2>Tearsoflight</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_ACandleSnuffedout_6_Name</column_1><column_2>ACandleSnuffedout</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_OriginStory_7_Name</column_1><column_2>OriginStory</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_ForAllAurai_8_Name</column_1><column_2>ForAllAurai</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_AceDetective_9_Name</column_1><column_2>AceDetective</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_Damagecontrol_10_Name</column_1><column_2>Damagecontrol</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_SayHellotomyBigFriend_11_Name</column_1><column_2>SayHellotomyBigFriend!</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_LaidtoRest_12_Name</column_1><column_2>LaidtoRest</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_AncestorsPride_13_Name</column_1><column_2>Ancestor'sPride</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_AFortressToppled_14_Name</column_1><column_2>AFortressToppled!</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_InsideJob_15_Name</column_1><column_2>InsideJob</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_DesertJustice_16_Name</column_1><column_2>DesertJustice</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_FoodfortheHungry_17_Name</column_1><column_2>FoodfortheHungry</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_LightofLevant_18_Name</column_1><column_2>LightofLevant</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_HouseofCards_19_Name</column_1><column_2>HouseofCards</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_MasterofAurai_20_Name</column_1><column_2>MasterofAurai</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_VentureOutward_21_Name</column_1><column_2>VentureOutward</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_Tapped_22_Name</column_1><column_2>Tapped!</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_Eureka_23_Name</column_1><column_2>Eureka</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_ExceptionalSkill_24_Name</column_1><column_2>ExceptionalSkill</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_HomeSweetHome_25_Name</column_1><column_2>HomeSweetHome</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_ScourgeSlayer_26_Name</column_1><column_2>ScourgeSlayer</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_ApexPredator_27_Name</column_1><column_2>ApexPredator</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_CordonBleu_28_Name</column_1><column_2>CordonBleu</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_ScienceTroglodyte_29_Name</column_1><column_2>Science,Troglodyte!</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_Encyclopedic_30_Name</column_1><column_2>Encyclopedic!</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_PerfectDefense_31_Name</column_1><column_2>PerfectDefense</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_NeverSawitComing_32_Name</column_1><column_2>NeverSawitComing</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_CanadianHotel_33_Name</column_1><column_2>CanadianHotel</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_GiftfromtheAncestors_34_Name</column_1><column_2>GiftfromtheAncestors</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_TheyllTellStoriesAboutThis_35_Name</column_1><column_2>They'llTellStoriesAboutThis</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_HookLineandHarpoon_36_Name</column_1><column_2>Hook,Lineand...Harpoon?</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_Motherlode_37_Name</column_1><column_2>Motherlode</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_PutitOut_38_Name</column_1><column_2>PutitOut!</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_TakemyHand_39_Name</column_1><column_2>TakemyHand!</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_CircleofLife_40_Name</column_1><column_2>CircleofLife</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_ReadyforSummer_41_Name</column_1><column_2>ReadyforSummer</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_ReadyforWinter_42_Name</column_1><column_2>ReadyforWinter</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_HoldmyMeadandWatchThis_43_Name</column_1><column_2>HoldmyMeadandWatchThis</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Achievement_BonesOfMyEnemy_44_Name</column_1><column_2>BonesofmyEnemy</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_FreshOfftheBoat_1_Desc</column_1><column_2>新しいキャラクターを始めます。</column_2><column_3>22</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_ThePowerofFamily_2_Desc</column_1><column_2> Blue Chamber派閥に参加してください。</column_2><column_3>30</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_ThePowerofFreedom_3_Desc</column_1><column_2>英雄王国派閥に参加してください。</column_2><column_3>32</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_ThePowerofFaith_4_Desc</column_1><column_2>聖任務派閥に参加してください。</column_2><column_3>30</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_Tearsoflight_5_Desc</column_1><column_2>uLighthoを維持しながら、Holy Missionの最初のクエストを完了してくださいse.</column_2><column_3>75</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_ACandleSnuffedout_6_Desc</column_1><column_2>聖任務の2回目のクエストを完了してください。</column_2><column_3>46</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_OriginStory_7_Desc</column_1><column_2>ホーリーミッションの3番目のクエストを完了してください。</column_2><column_3>45</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_ForAllAurai_8_Desc</column_1><column_2>聖任務の4回目のクエストを完了してください。</column_2><column_3>46</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_AceDetective_9_Desc</column_1><column_2> 聖任務の並行クエストを完了してください。</column_2><column_3>48</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_Damagecontrol_10_Desc</column_1><column_2> ブルーチャンバーの最初のクエストを完了してください</column_2><column_3>45</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_SayHellotomyBigFriend_11_Desc</column_1><column_2> ブルーチャンバーの2回目のクエストを完了してください。</column_2><column_3>46</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_LaidtoRest_12_Desc</column_1><column_2>ブルーチャンバーの3番目のクエストを完了してください。</column_2><column_3>45</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_AncestorsPride_13_Desc</column_1><column_2>ブルーチャンバーの4回目のクエストを完了してください。</column_2><column_3>46</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_AFortressToppled_14_Desc</column_1><column_2>ブルーチャンバーの並行クエストを完了してください</column_2><column_3>48</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_InsideJob_15_Desc</column_1><column_2> 英雄王国の最初のクエストを完了してください。</column_2><column_3>47</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_DesertJustice_16_Desc</column_1><column_2> 英雄王国の第二のクエストを完了してください。</column_2><column_3>48</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_FoodfortheHungry_17_Desc</column_1><column_2>英雄王国の3番目のクエストを完了してください。</column_2><column_3>47</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_LightofLevant_18_Desc</column_1><column_2> 英雄王国の4番目のクエストを完了してください。</column_2><column_3>48</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_HouseofCards_19_Desc</column_1><column_2>英雄王国のパラレルクエストを完了してください。</column_2><column_3>50</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_MasterofAurai_20_Desc</column_1><column_2> 3つのクエストラインをすべて終了してください。</column_2><column_3>25</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_VentureOutward_21_Desc</column_1><column_2>Cierzoを離れます。</column_2><column_3>13</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_Tapped_22_Desc</column_1><column_2>Conflux Mountainからマナを得る。</column_2><column_3>36</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_Eureka_23_Desc</column_1><column_2>突破口を使用してください。</column_2><column_3>25</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_ExceptionalSkill_24_Desc</column_1><column_2>一つのスキルツリーからあなたができるすべてのスキルとパッシブを学びましょう。</column_2><column_3>62</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_HomeSweetHome_25_Desc</column_1><column_2> いずれかの都市で家を購入する。</column_2><column_3>38</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_ScourgeSlayer_26_Desc</column_1><column_2> シェルホラーを倒す</column_2><column_3>20</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_ApexPredator_27_Desc</column_1><column_2>マンティコアを殺す。</column_2><column_3>17</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_CordonBleu_28_Desc</column_1><column_2>4つの材料で調理レシピを作ります。</column_2><column_3>42</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_ScienceTroglodyte_29_Desc</column_1><column_2> 4材料で錬金術レシピを作ります</column_2><column_3>43</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_Encyclopedic_30_Desc</column_1><column_2>50の新しいレシピを学びましょう。</column_2><column_3>21</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_PerfectDefense_31_Desc</column_1><column_2>Tsar Armor一式を装備してください。</column_2><column_3>34</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_NeverSawitComing_32_Desc</column_1><column_2>Tripwireトラップを作ります。</column_2><column_3>22</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_CanadianHotel_33_Desc</column_1><column_2> 雪が降っている間は外でキャンプしてください。</column_2><column_3>28</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_GiftfromtheAncestors_34_Desc</column_1><column_2>レガシーチェストに保管していたアイテムを回復します。</column_2><column_3>45</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_TheyllTellStoriesAboutThis_35_Desc</column_1><column_2>これまで敗北することなくクエストラインを終了します。</column_2><column_3>48</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_HookLineandHarpoon_36_Desc</column_1><column_2>釣りにハープーンを使ってください。</column_2><column_3>30</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_Motherlode_37_Desc</column_1><column_2>鉱石を採掘しながら宝石を見つけてください。</column_2><column_3>28</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_PutitOut_38_Desc</column_1><column_2>投げ灯りスキルを5回使う。</column_2><column_3>36</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_TakemyHand_39_Desc</column_1><column_2>他のプレイヤーを再活性化します。</column_2><column_3>25</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_CircleofLife_40_Desc</column_1><column_2>ソースからホタルパウダーを入手します。</column_2><column_3>38</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_ReadyforSummer_41_Desc</column_1><column_2>20の暑い天気に達する</column_2><column_3>25</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_ReadyforWinter_42_Desc</column_1><column_2>寒さ20に達する</column_2><column_3>26</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_HoldmyMeadandWatchThis_43_Desc</column_1><column_2>同時にあなたにそれぞれのブーンをアクティブにしてもらいます。</column_2><column_3>46</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_BonesOfMyEnemy_44_Desc</column_1><column_2>マンティコアグレートマース、ホラーボウ、ホラーアックスまたはホラーシールドを製作する</column_2><column_3>68</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_FreshOfftheBoat_1_Name</column_1><column_2>ボートオフフレッシュ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_ThePowerofFamily_2_Name</column_1><column_2> 家族の力</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_ThePowerofFreedom_3_Name</column_1><column_2>自由の力</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_ThePowerofFaith_4_Name</column_1><column_2>信仰の力</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_Tearsoflight_5_Name</column_1><column_2> 光の涙</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_ACandleSnuffedout_6_Name</column_1><column_2>キャンドルが消えた</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_OriginStory_7_Name</column_1><column_2>オリジンストーリー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_ForAllAurai_8_Name</column_1><column_2>すべてのオーライ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_AceDetective_9_Name</column_1><column_2> エース探偵</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_Damagecontrol_10_Name</column_1><column_2> ダメージコントロール</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_SayHellotomyBigFriend_11_Name</column_1><column_2> 私のビッグフレンドへようこそ！</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_LaidtoRest_12_Name</column_1><column_2>安静にする</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_AncestorsPride_13_Name</column_1><column_2>先祖のプライド</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_AFortressToppled_14_Name</column_1><column_2>要塞が倒れた！</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_InsideJob_15_Name</column_1><column_2> インサイドジョブ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_DesertJustice_16_Name</column_1><column_2> 砂漠の正義</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_FoodfortheHungry_17_Name</column_1><column_2>空腹のための食糧</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_LightofLevant_18_Name</column_1><column_2> レバントの光</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_HouseofCards_19_Name</column_1><column_2>砂上の楼閣</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_MasterofAurai_20_Name</column_1><column_2> オーライの達人</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_VentureOutward_21_Name</column_1><column_2>ベンチャーアウトワード</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_Tapped_22_Name</column_1><column_2>タップ！</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_Eureka_23_Name</column_1><column_2>ユーレカ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_ExceptionalSkill_24_Name</column_1><column_2>優れたスキル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_HomeSweetHome_25_Name</column_1><column_2> ホームスイートホーム</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_ScourgeSlayer_26_Name</column_1><column_2> スカージスレイヤー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_ApexPredator_27_Name</column_1><column_2>アペックスプレデター</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_CordonBleu_28_Name</column_1><column_2>コルドンブルー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_ScienceTroglodyte_29_Name</column_1><column_2> 科学、Troglodyte！</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_Encyclopedic_30_Name</column_1><column_2>百科事典！</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_PerfectDefense_31_Name</column_1><column_2>完璧な防衛</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_NeverSawitComing_32_Name</column_1><column_2>それを見たことがない</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_CanadianHotel_33_Name</column_1><column_2> カナディアンホテル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_GiftfromtheAncestors_34_Name</column_1><column_2>祖先からの贈り物</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_TheyllTellStoriesAboutThis_35_Name</column_1><column_2>彼らはこれについての話をします</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_HookLineandHarpoon_36_Name</column_1><column_2>フック、ラインそして...ハープーン？</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_Motherlode_37_Name</column_1><column_2>主脈</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_PutitOut_38_Name</column_1><column_2>それを消します！</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_TakemyHand_39_Name</column_1><column_2>私の手をとって！</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_CircleofLife_40_Name</column_1><column_2>生命の輪</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_ReadyforSummer_41_Name</column_1><column_2>夏が来るのを待っていた</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_ReadyforWinter_42_Name</column_1><column_2>冬の準備ができて</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_HoldmyMeadandWatchThis_43_Name</column_1><column_2>私のミードを持ってこれを見る</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Achievement_BonesOfMyEnemy_44_Name</column_1><column_2>私の敵の骨</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
 </ooo_sheet>
 </ooo_calc_export>
