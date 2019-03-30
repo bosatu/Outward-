@@ -366,7 +366,7 @@ Otherwise,survivalcraftingisusedtomakeessentialsitemssuchasMakeshiftTorches,ifon
     <ooo_row><column_1>Loading_Area</column_1><column_2>ローディングエリア</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Loading_Characters</column_1><column_2>ローディングキャラクター</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Loading_Items</column_1><column_2>ローディングアイテム</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Loading_PlayerSpawn</column_1><column_2>Positioning Players</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Loading_PlayerSpawn</column_1><column_2>プレイヤーの位置情報を設定</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Connection_Preparation_Joining</column_1><column_2>参加中...</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Connection_Preparation_Saving</column_1><column_2>保存中...</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Connection_Preparation_ReloadingWorld</column_1><column_2>ワールドを再読み込み...</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
