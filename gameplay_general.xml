@@ -92,7 +92,7 @@
     <ooo_row><column_1>Mushrooms_Star</column_1><column_2>スターマッシュルーム</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Plant_Cactus</column_1><column_2>カクタス</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Plant_Crabeye</column_1><column_2>クラベイ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Plant_Gaberries</column_1><column_2>ガベリス</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Plant_Gaberries</column_1><column_2>ガベリーズ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Plant_GhostPlant</column_1><column_2>ゴーストプラント</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Plant_GreasyFern</column_1><column_2>脂っこいシダ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Plant_Krimp</column_1><column_2>エビ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -284,8 +284,8 @@
     <ooo_row><column_1>Interaction_NPC_Short_Trade</column_1><column_2>トレード</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Interaction_Base_DrinkWater</column_1><column_2>飲み物{1}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Interaction_Base_GatherWater</column_1><column_2>{1}を収集</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Interaction_Item_Disassemble</column_1><column_2>分解する</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Interaction_Item_DisassembleTrap</column_1><column_2>分解してください{1}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_Item_Disassemble</column_1><column_2>収納</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_Item_DisassembleTrap</column_1><column_2>{1}を収納</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Interaction_Item_OpenContainer</column_1><column_2>開ける</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Interaction_Item_Use</column_1><column_2>使う</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Interaction_Item_Loot</column_1><column_2>ルート</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>

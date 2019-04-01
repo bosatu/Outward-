@@ -23,7 +23,7 @@
     <ooo_row><column_1>CharacterStat_Defense_Armor</column_1><column_2>抵抗力</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CharacterStat_Defense_ColdResistance</column_1><column_2>耐寒抵抗.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CharacterStat_Defense_HeatResistance</column_1><column_2>高温抵抗.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterStat_Defense_ImpactResistance</column_1><column_2>衝撃抵抗</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterStat_Defense_ImpactResistance</column_1><column_2>打撃抵抗</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CharacterStat_Defense_Protection</column_1><column_2>身体的抵抗</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CharacterStat_Drink</column_1><column_2>渇き</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CharacterStat_Food</column_1><column_2>空腹</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -190,14 +190,14 @@ Otherwise,survivalcraftingisusedtomakeessentialsitemssuchasMakeshiftTorches,ifon
     <ooo_row><column_1>ItemStat_CorruptionProtection</column_1><column_2>CorruptionProtection</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_Damage</column_1><column_2>ダメージ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_DamageModifier</column_1><column_2>ダメージボーナス</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_DamageProtection</column_1><column_2>プロテクション</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_DamageProtection</column_1><column_2>防御力</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_DamageResistance</column_1><column_2>抵抗力</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_Durability</column_1><column_2>耐久力</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_Freshness</column_1><column_2>鮮度</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_HeatProtection</column_1><column_2>高温耐性.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_HeatRegenPenalty</column_1><column_2>HeatRecovery</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_Impact</column_1><column_2>衝撃</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>ItemStat_ImpactRes</column_1><column_2>衝撃耐性</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_Impact</column_1><column_2>打撃</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ItemStat_ImpactRes</column_1><column_2>打撃耐性</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_ManaCost</column_1><column_2>消費マナ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_MovementPenalty</column_1><column_2>移動速度</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ItemStat_QuickSlot</column_1><column_2>クイックスロット</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -395,7 +395,7 @@ Otherwise,survivalcraftingisusedtomakeessentialsitemssuchasMakeshiftTorches,ifon
     <ooo_row><column_1>EquipStatName_Lightning</column_1><column_2>ライトニング</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>EquipStatName_Decay</column_1><column_2>減衰</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>EquipStatName_AttackSpeed</column_1><column_2>攻撃速度</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>EquipStatName_Impact</column_1><column_2>衝撃</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>EquipStatName_Impact</column_1><column_2>打撃</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>EquipStatName_Protection</column_1><column_2>保護</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>EquipStatName_MovementSpeed</column_1><column_2>速度</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>EquipStatName_StaminaUse</column_1><column_2>スタミナ使用</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -474,10 +474,10 @@ Onemustmanuallyrefilltheirquiverbetweenfightssoasnottorunoutofarrowsduringbattle
     <ooo_row><column_1>Notification_Crafting_InvalidCombination</column_1><column_2>無効な組み合わせ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Notification_Crafting_InvalidCombinationWaste</column_1><column_2>無効な組み合わせ。材料が失われました。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Notification_Deployable_CannotPlaceHere</column_1><column_2>{1}ここには設置することができません。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Notification_Deployable_DisassembleNotEmpty</column_1><column_2>{1}分解する前に空にしなければいけません。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Notification_Deployable_DisassembleNotEmpty</column_1><column_2>{1}かたずける前に空にしなければいけません。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Notification_Deployable_TentIsFull</column_1><column_2>{1}はすでに使用されています。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Notification_Deployable_TrapArmed</column_1><column_2>{1}武装している。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Notification_Disease_Contract</column_1><column_2>{1}契約しています。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Notification_Disease_Contract</column_1><column_2>{1}になった。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Notification_Disease_Receding</column_1><column_2>{1}破棄します。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Notification_Gather_ItemRequired</column_1><column_2>{1}この材料を収集する必要があります。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Notification_Inventory_BagOverweight</column_1><column_2>バッグが一杯です。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -498,13 +498,13 @@ Onemustmanuallyrefilltheirquiverbetweenfightssoasnottorunoutofarrowsduringbattle
     <ooo_row><column_1>Notification_LognTravel_DistanceThreshold</column_1><column_2>すべてのプレーヤーは、旅行に近くなければなりません。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Notification_LongTraval_NotEnoughRatio</column_1><column_2>移動に不十分な食糧</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Notification_Need_Fatigue_Drowsy</column_1><column_2>疲れている。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Notification_Need_Fatigue_Tired</column_1><column_2>非常に疲れています。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Notification_Need_Hunger_Hungry</column_1><column_2>おなかがすいている。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Notification_Need_Hunger_Starving</column_1><column_2>非常に飢えています。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Notification_Need_Temperature_Cold</column_1><column_2>寒いです。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Notification_Need_Temperature_Hot</column_1><column_2>暑いです。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Notification_Need_Temperature_VeryCold</column_1><column_2>非常に寒いです。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Notification_Need_Temperature_VeryHot</column_1><column_2>非常に暑いです。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Notification_Need_Fatigue_Tired</column_1><column_2>非常に疲れている。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Notification_Need_Hunger_Hungry</column_1><column_2>お腹がすいた</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Notification_Need_Hunger_Starving</column_1><column_2>非常に飢えている。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Notification_Need_Temperature_Cold</column_1><column_2>寒い</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Notification_Need_Temperature_Hot</column_1><column_2>暑い</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Notification_Need_Temperature_VeryCold</column_1><column_2>非常に寒い</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Notification_Need_Temperature_VeryHot</column_1><column_2>非常に暑い</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Notification_Need_Thirst_Parched</column_1><column_2>非常にのどが渇いています。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Notification_Need_Thirst_Thirsty</column_1><column_2>のどが渇いています。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Notification_ProjectileWeapon_NoAmmunition</column_1><column_2>弾薬を装填していません</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -752,7 +752,7 @@ Weaponskillsrequirement:notboon</column_4><column_5></column_5><column_6></colum
     <ooo_row><column_1>Tutorial_Leave_Title</column_1><column_2>名前は空白にできません</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CharacterCreation_EmptyName_Message</column_1><column_2>{1}を削除してよろしいですか？</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CharSelection_DeleteSaveMessage</column_1><column_2>削除を保存しますか？</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharSelection_DeleteSaveTitle</column_1><column_2>分割画面を停止しようとしています。続けますか？</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharSelection_DeleteSaveTitle</column_1><column_2>キャラクターを削除しようとしています。続けますか？</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>SplitScreen_Stop_Message</column_1><column_2>分割画面を停止</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>SplitScreen_Stop_Title</column_1><column_2>一旦適用されると、変更はできませんが続行しますか？</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>ChannelingMenu_Confirm_Message</column_1><column_2>マナチャネリング</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -845,7 +845,7 @@ Weaponskillsrequirement:notboon</column_4><column_5></column_5><column_6></colum
     <ooo_row><column_1>StatusEffect_ChillHex_Name</column_1><column_2>冷やす</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_CierzoSleepBuff_Desc</column_1><column_2>コールドウェザーデフ+[E3V1]スタミナ消費-[E4V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_CierzoSleepBuff_Name</column_1><column_2>睡眠：Cierzo</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_ConfusionHex_Desc</column_1><column_2>耐衝撃性[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_ConfusionHex_Desc</column_1><column_2>耐打撃性[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_ConfusionHex_Name</column_1><column_2>混乱</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_CoolBoon_Desc</column_1><column_2>凍害と抵抗力+[E1V1]％。暑さデフ+[E2V1]。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_CoolBoon_Name</column_1><column_2>クール</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -855,7 +855,7 @@ Weaponskillsrequirement:notboon</column_4><column_5></column_5><column_6></colum
     <ooo_row><column_1>StatusEffect_Cripple_Name</column_1><column_2>窮屈</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_CurseHex_Desc</column_1><column_2>崩壊ダメージと抵抗力[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_CurseHex_Name</column_1><column_2>呪い</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_DefenseBonus_Desc</column_1><column_2>物理的および衝撃抵抗+[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_DefenseBonus_Desc</column_1><column_2>物理的および打撃抵抗+[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_DefenseBonus_Name</column_1><column_2>物理的防御</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_DezRunes_Desc</column_1><column_2>効果なしでルーンしますが、正しい順序で他のルーンと組み合わせることができます。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_DezRunes_Name</column_1><column_2>デズルーン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -883,11 +883,11 @@ Weaponskillsrequirement:notboon</column_4><column_5></column_5><column_6></colum
     <ooo_row><column_1>StatusEffect_Disease_LifeDrain_3_Desc</column_1><column_2>病気はすぐにあなたを殺すでしょう。[E1V1]最大ヘルス％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Disease_LifeDrain_2_Name</column_1><column_2>病気：ライフドレイン2</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Disease_LifeDrain_3_Name</column_1><column_2>病気：ライフドレイン3</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Dizzy_Desc</column_1><column_2>耐衝撃性[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Dizzy_Desc</column_1><column_2>耐打撃性[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Dizzy_Name</column_1><column_2>眩暈</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_DoomHex_Desc</column_1><column_2>雷害と抵抗[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_DoomHex_Name</column_1><column_2>運命</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Drunk_Desc</column_1><column_2>耐衝撃性[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Drunk_Desc</column_1><column_2>耐打撃性[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Drunk_Name</column_1><column_2>酔って</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_EgothRunes_Desc</column_1><column_2>効果なしでルーンしますが、正しい順序で他のルーンと組み合わせることができます。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_EgothRunes_Name</column_1><column_2>エゴスルーン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -908,14 +908,14 @@ Weaponskillsrequirement:notboon</column_4><column_5></column_5><column_6></colum
     <ooo_row><column_1>StatusEffect_FalRunes_Desc</column_1><column_2>効果なしでルーンしますが、正しい順序で他のルーンと組み合わせることができます。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_FalRunes_Name</column_1><column_2>FalRunes</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Fatigue2_Drowsy_Desc</column_1><column_2>スタミナ再生[E1V1]％。1秒あたりのマナレゲン[E2V1]。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Fatigue2_Drowsy_Name</column_1><column_2>ニーズ：疲れ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Fatigue2_Drowsy_Name</column_1><column_2>欲求：疲れ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Fatigue3_Tired_Desc</column_1><column_2>スタミナ再生[E1V1]％。1秒あたりのマナレゲン[E2V1]。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Fatigue3_Tired_Name</column_1><column_2>ニーズ：とても疲れている</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Fatigue3_Tired_Name</column_1><column_2>欲求：とても疲れている</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Fatigue6_Energized_Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Fatigue6_Energized_Name</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_FireflyStatus_Desc</column_1><column_2>敵にあなたをより見やすくします。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_FireflyStatus_Name</column_1><column_2>ホタル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_FoodDizzy_Desc</column_1><column_2>耐衝撃性[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_FoodDizzy_Desc</column_1><column_2>耐打撃性[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodDizzy_Name</column_1><column_2>めまいがする</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodEnvColdResistance_Desc</column_1><column_2>コールドウェザーデフ+[E1V1]</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodEnvColdResistance_Name</column_1><column_2>寒冷地防衛</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -927,15 +927,15 @@ Weaponskillsrequirement:notboon</column_4><column_5></column_5><column_6></colum
     <ooo_row><column_1>StatusEffect_FoodPoisonedHex2_Name</column_1><column_2>極度の毒</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodSpeedUp_Desc</column_1><column_2>移動速度+[E1V1]％</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodSpeedUp_Name</column_1><column_2>スピードアップ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_FoodStabilityUp_Desc</column_1><column_2>耐衝撃性+[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_FoodStabilityUp_Name</column_1><column_2>耐衝撃性</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_FoodWarm_Desc</column_1><column_2>火災によるダメージと抵抗+[E1V1]％。コールドウェザーデフ+[E2V1]</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_FoodStabilityUp_Desc</column_1><column_2>耐打撃性+[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_FoodStabilityUp_Name</column_1><column_2>耐打撃性</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_FoodWarm_Desc</column_1><column_2>火災によるダメージと抵抗+[E1V1]％。耐寒抵抗+[E2V1]</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodWarm_Name</column_1><column_2>暖かい</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_ForceBubble_Desc</column_1><column_2>ダメージを受けないが、影響を受けやすい。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_ForceBubble_Name</column_1><column_2>力バブル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_FurTentSleepBuff_Desc</column_1><column_2>コールドウェザーデフ+[E1V1]スタミナ消費-[E2V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_FurTentSleepBuff_Desc</column_1><column_2>耐寒抵抗+[E1V1]スタミナ消費-[E2V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_FurTentSleepBuff_Name</column_1><column_2>スリープ：ファーテント</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_GaberryWine_Desc</column_1><column_2>マナコスト[E1V1]％物理抵抗[E2V1]％。耐衝撃性[E3V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_GaberryWine_Desc</column_1><column_2>マナコスト[E1V1]％物理抵抗[E2V1]％。耐打撃性[E3V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_GaberryWine_Name</column_1><column_2>ガバリーワイン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_HallowedMarshPoisonLvl1_Desc</column_1><column_2>[E1V1]ディケイダメージを毎秒取る。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_HallowedMarshPoisonLvl1_Name</column_1><column_2>マーシュポイズン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -953,10 +953,10 @@ Weaponskillsrequirement:notboon</column_4><column_5></column_5><column_6></colum
     <ooo_row><column_1>StatusEffect_HealthRecovery4_Name</column_1><column_2>ヘルス回復4</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_HealthRecovery5_Desc</column_1><column_2>1秒あたりの[E1V1]Healthを回復する。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_HealthRecovery5_Name</column_1><column_2>ヘルス回復5</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Hunger2_Starving_Desc</column_1><column_2>最大ヘルスは3倍速く減少します。あなたが与えるダメージ：[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Hunger2_Starving_Name</column_1><column_2>ニーズ：非常に空腹</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Hunger3_Hungry_Desc</column_1><column_2>最大ヘルスは3倍速く減少します。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Hunger3_Hungry_Name</column_1><column_2>ニーズ：空腹</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Hunger2_Starving_Desc</column_1><column_2>最大ヘルスは3倍の速さで減少します。あなたが与えるダメージ：[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Hunger2_Starving_Name</column_1><column_2>欲求：非常に空腹</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Hunger3_Hungry_Desc</column_1><column_2>最大ヘルスは3倍の速さで減少します。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Hunger3_Hungry_Name</column_1><column_2>欲求：空腹</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Hunger6_Bloated_Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Hunger6_Bloated_Name</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_ImmolatedHex_Desc</column_1><column_2>対処+[E2V1]％射撃ダメージ毎秒[E1V1]射撃ダメージを受ける。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -985,7 +985,7 @@ Weaponskillsrequirement:notboon</column_4><column_5></column_5><column_6></colum
     <ooo_row><column_1>StatusEffect_MistBoon_Name</column_1><column_2>ミスト</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_MistBoonAmplified_Desc</column_1><column_2>エーテル損傷と抵抗+[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_MistBoonAmplified_Name</column_1><column_2>ミスト増幅</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_MonsoonSleepBuff_Desc</column_1><column_2>スタミナ消費-[E3V1]％。耐衝撃性+[E4V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_MonsoonSleepBuff_Desc</column_1><column_2>スタミナ消費-[E3V1]％。耐打撃性+[E4V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_MonsoonSleepBuff_Name</column_1><column_2>睡眠：モンスーン</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_PainHex_Desc</column_1><column_2>物理抵抗[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_PainHex_Name</column_1><column_2>疼痛</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -1021,9 +1021,9 @@ Weaponskillsrequirement:notboon</column_4><column_5></column_5><column_6></colum
     <ooo_row><column_1>StatusEffect_SlowDown_Name</column_1><column_2>徐行</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_SpeedUp_Desc</column_1><column_2>移動速度+[E1V1]％</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_SpeedUp_Name</column_1><column_2>スピードアップ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_StabilityUp_Desc</column_1><column_2>耐衝撃性+[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_StabilityUp_Name</column_1><column_2>耐衝撃性</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_StabilityUp2_Desc</column_1><column_2>耐衝撃性+[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_StabilityUp_Desc</column_1><column_2>耐打撃性+[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_StabilityUp_Name</column_1><column_2>耐打撃性</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_StabilityUp2_Desc</column_1><column_2>耐打撃性+[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_StabilityUp2_Name</column_1><column_2>安定性アップ2</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_StaminaCostReduction_Desc</column_1><column_2>スタミナ消費-[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_StaminaCostReduction_Name</column_1><column_2>スタミナコスト削減</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -1041,43 +1041,42 @@ Weaponskillsrequirement:notboon</column_4><column_5></column_5><column_6></colum
     <ooo_row><column_1>StatusEffect_StealthUp_Name</column_1><column_2>ステルスアップ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Stun_Desc</column_1><column_2>行動できない</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Stun_Name</column_1><column_2>気絶した</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Temperature2_Cold_Desc</column_1><column_2>風邪を引くことができます。移動速度[E1V1]％</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Temperature2_Cold_Name</column_1><column_2>ニーズ：風邪</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Temperature3_VeryCold_Desc</column_1><column_2>風邪を引くことができます。移動速度[E2V1]％毎秒[E1V1]FrostDamageを取ります。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Temperature3_VeryCold_Name</column_1><column_2>ニーズ：とても寒い</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Temperature2_Cold_Desc</column_1><column_2>風邪：移動速度[E1V1]％</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Temperature2_Cold_Name</column_1><column_2>欲求：風邪</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Temperature3_VeryCold_Desc</column_1><column_2>風邪：とても寒い</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Temperature4_Hot_Desc</column_1><column_2>スタミナ消費+[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Temperature4_Hot_Name</column_1><column_2>ニーズ：ホット</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Temperature5_VeryHot_Desc</column_1><column_2>耐衝撃性[E1V1]％。スタミナ消費+[E2V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Temperature5_VeryHot_Name</column_1><column_2>ニーズ：とても暑い</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Temperature4_Hot_Name</column_1><column_2>欲求：ホット</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Temperature5_VeryHot_Desc</column_1><column_2>耐打撃性[E1V1]％。スタミナ消費+[E2V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Temperature5_VeryHot_Name</column_1><column_2>欲求：とても暑い</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_TentSleepBuff_Desc</column_1><column_2>スタミナ消費-[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_TentSleepBuff_Name</column_1><column_2>スリープ：シンプルテント</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Thirst2_Parched_Desc</column_1><column_2>あなたの最大スタミナは3倍速く減少します。あなたが与えるダメージ：[E2V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Thirst3_Thirsty_Name</column_1><column_2>ニーズ：のどが渇いて</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Thirst2_Parched_Name</column_1><column_2>ニーズ：のどが渇いて</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Thirst3_Thirsty_Desc</column_1><column_2>あなたの最大スタミナは3倍速く減少します。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Thirst4_Refreshed_Name</column_1><column_2>ニーズ：リフレッシュ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_TentSleepBuff_Name</column_1><column_2>睡眠：シンプルテント</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Thirst2_Parched_Desc</column_1><column_2>最大スタミナは3倍の速さで減少します。与ダメージ：[E2V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Thirst3_Thirsty_Name</column_1><column_2>欲求：のどが渇いて</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Thirst2_Parched_Name</column_1><column_2>欲求：のどが渇いて</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Thirst3_Thirsty_Desc</column_1><column_2>最大スタミナは3倍の速さで減少します。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Thirst4_Refreshed_Name</column_1><column_2>欲求：リフレッシュ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Thirst4_Refreshed_Desc</column_1><column_2>スタミナ再生[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_WarmBoon_Desc</column_1><column_2>火災によるダメージと抵抗+[E1V1]％。コールドウェザーデフ+[E2V1]</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_WarmBoon_Desc</column_1><column_2>ファイアーによるダメージと抵抗+[E1V1]％。低温耐性+[E2V1]</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_WarmBoon_Name</column_1><column_2>暖かい</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_WarmBoonAmplified_Desc</column_1><column_2>火災によるダメージと抵抗+[E1V1]％。コールドウェザーデフ+[E2V1]</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_WarmBoonAmplified_Desc</column_1><column_2>ファイアーによるダメージと抵抗+[E1V1]％。低温耐性+[E2V1]</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_WarmBoonAmplified_Name</column_1><column_2>暖かい増幅</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_WaterStaminaRcovery_Desc</column_1><column_2>1秒あたりに[E1V1]スタミナを回復する。暑さデフ+[E2V1]。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_WaterStaminaRcovery_Desc</column_1><column_2>1秒あたりに[E1V1]スタミナを回復する。高温耐性+[E2V1]。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_WaterStaminaRcovery_Name</column_1><column_2>水の効果</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Wet_Desc</column_1><column_2>コールドウェザーデフ[E1V1]。霜抵抗[E3V1]耐火性+[E2V1]</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Wet_Desc</column_1><column_2>耐寒抵抗[E1V1]。霜抵抗[E3V1]耐火性+[E2V1]</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Wet_Name</column_1><column_2>ぬれた</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_WindImbueStats_Desc</column_1><column_2>移動速度+[E1V1]％武器のインパクト+[E2V1]％。スタミナは[E3V1]％速く燃えます。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_WindImbueStats_Desc</column_1><column_2>移動速度+[E1V1]％武器の打撃+[E2V1]％。スタミナは[E3V1]％速く消費されます。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_WindImbueStats_Name</column_1><column_2>ウィンドインブー</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodAttackUp_Desc</column_1><column_2>物理的ダメージ+[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodAttackUp_Name</column_1><column_2>物理的な攻撃</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_FoodBless_Desc</column_1><column_2>雷害と抵抗+[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_FoodBless_Desc</column_1><column_2>ライトニングへの抵抗+[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodBless_Name</column_1><column_2>祝福された</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_FoodCool_Desc</column_1><column_2>凍害と抵抗力+[E1V1]％。暑さデフ+[E2V1]。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_FoodCool_Desc</column_1><column_2>フロストへの抵抗力+[E1V1]％。高温耐性+[E2V1]。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodCool_Name</column_1><column_2>クール</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodDiscipline_Desc</column_1><column_2>物理的ダメージ+[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodDiscipline_Name</column_1><column_2>しつけ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodImpactUp_Desc</column_1><column_2>武器の攻撃力+[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_FoodImpactUp_Name</column_1><column_2>インパクトアップ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_FoodMist_Desc</column_1><column_2>エーテル損傷と抵抗+[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_FoodImpactUp_Name</column_1><column_2>打撃力上昇</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_FoodMist_Desc</column_1><column_2>エーテルのダメージと抵抗+[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodMist_Name</column_1><column_2>ミスト</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodPossessed_Desc</column_1><column_2>崩壊ダメージと抵抗値+[E1V1]％。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodPossessed_Name</column_1><column_2>所持</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -1087,7 +1086,7 @@ Weaponskillsrequirement:notboon</column_4><column_5></column_5><column_6></colum
     <ooo_row><column_1>StatusEffect_Hunger4_Full_Name</column_1><column_2>いっぱい</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_MageTentSleepBuff_Desc</column_1><column_2>マナ能力コスト[E1V1]％</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_MageTentSleepBuff_Name</column_1><column_2>睡眠：メイジテント</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_PlantTentSleepBuff_Desc</column_1><column_2>暑さデフ+[E3V1]。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_PlantTentSleepBuff_Desc</column_1><column_2>高温耐性+[E3V1]。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_PlantTentSleepBuff_Name</column_1><column_2>睡眠：植物のテント</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Exalted_Client</column_1><column_2>この異国の世界では、神聖な恩恵は何の効果もないようです。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Imbue_PoisonImbue1_Name</column_1><column_2>ポンポン・インブエ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -1133,7 +1132,7 @@ Weaponskillsrequirement:notboon</column_4><column_5></column_5><column_6></colum
     <ooo_row><column_1>StatusEffect_Imbue_BloodBulletImbue_Name</column_1><column_2>BloodBulletImbue</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Imbue_BloodBulletImbue_Desc</column_1><column_2>撃たれた時、ディケイダメージを与えます。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Imbue_ShattertBulletImbue_Name</column_1><column_2>粉々に弾丸</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>StatusEffect_Imbue_ShattertBulletImbue_Desc</column_1><column_2>撃たれたとき、敵に強い衝撃と痛みを与えます。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>StatusEffect_Imbue_ShattertBulletImbue_Desc</column_1><column_2>撃たれたとき、敵に強い打撃と痛みを与えます。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Ghost_Name</column_1><column_2>召喚ゴースト</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_Ghost_Desc</column_1><column_2>仲間として戦う召喚幽霊が続きます。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>StatusEffect_RunicTrap_Name</column_1><column_2>ルーニックトラップ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
