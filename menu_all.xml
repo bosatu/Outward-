@@ -661,7 +661,7 @@ Onemustmanuallyrefilltheirquiverbetweenfightssoasnottorunoutofarrowsduringbattle
     <ooo_row><column_1>Player_Message_TutorialTitle_End</column_1><column_2>35-終了</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Player_Message_Tutorial_Introduction</column_1><column_2>チュートリアルについて読む</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Player_Message_Tutorial_Combat</column_1><column_2>基本的な戦闘について読む</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Player_Message_Tutorial_Blocking</column_1><column_2>ブロッキングについて読む</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Player_Message_Tutorial_Blocking</column_1><column_2>防御について読む</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Player_Message_Tutorial_Stability</column_1><column_2>安定バーについて読む</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Player_Message_Tutorial_ComplexSkills</column_1><column_2>スキルについて読む</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Player_Message_Tutorial_WeaponSkills</column_1><column_2>ウェポンスキルについて読む</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -731,7 +731,7 @@ Weaponskillsrequirement:notboon</column_4><column_5></column_5><column_6></colum
     <ooo_row><column_1>Context_Item_Use</column_1><column_2>使用</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Context_Item_Read</column_1><column_2>読む</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Context_Item_Fill</column_1><column_2>{1}を注ぐ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Context_Item_Deploy</column_1><column_2>展開</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Context_Item_Deploy</column_1><column_2>設置</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Context_Item_Empty</column_1><column_2>空</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Context_Item_Buy</column_1><column_2>購入</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Context_Item_Sell</column_1><column_2>販売</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -1158,10 +1158,10 @@ Weaponskillsrequirement:notboon</column_4><column_5></column_5><column_6></colum
     <ooo_row><column_1>InputAction_CancelCharge</column_1><column_2>描画をキャンセル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>InputAction_CancelDeploy</column_1><column_2>デプロイをキャンセル</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>InputAction_ChargeWeapon</column_1><column_2>弓を撃つ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_ConfirmDeploy</column_1><column_2>展開を確認</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_Dodge</column_1><column_2>ドッジ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_DragCorpse</column_1><column_2>死体をつかむ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>InputAction_HandleBag</column_1><column_2>バッグの装着</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_ConfirmDeploy</column_1><column_2>設置を確認</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_Dodge</column_1><column_2>回避</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_DragCorpse</column_1><column_2>死体を掴む</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>InputAction_HandleBag</column_1><column_2>バッグを装着</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>InputAction_Interact</column_1><column_2>行動</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>InputAction_LockHold</column_1><column_2>ロック（保留）</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>InputAction_LockToggle</column_1><column_2>ロック（切り替え）</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
